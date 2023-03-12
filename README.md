@@ -118,3 +118,21 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ AppGameKit VR](https://www.appgamekit.com/dlc/vr) <br />
 [🆓⚒️ Open 3D Engine](https://www.o3de.org/) <br />
 [🆓⚒️ ApterusVR](http://apertusvr.org/) <br />
+## Assets
+### Premade Models
+[3D Scan Store](https://www.3dscanstore.com/) <br />
+[RenderPeople](https://renderpeople.com/free-3d-people/) <br />
+[Sketchfab](https://sketchfab.com/) <br />
+[TurboSquid](https://www.turbosquid.com/) <br />
+[CGTrader](https://www.cgtrader.com/) <br />
+[🆓 Smithsonian 3D](https://3d.si.edu/) <br />
+[🆓 3dmodelscc0](https://www.3dmodelscc0.com/) <br />
+[🆓 Quixel Megascans](https://quixel.com/megascans/) <br />
+[🆓 Quixel Bridge](https://quixel.com/bridge) <br />
+[🆓 Poly Haven](https://polyhaven.com/) <br />
+[Pixel Lab](https://www.thepixellab.net/freebies) <br />
+[🆓 Free3D](https://free3d.com/) <br />
+[Hum3D](https://hum3d.com/free/) <br />
+[🆓 MorphoSource](https://www.morphosource.org/) <br />
+[🆓 poly.pizza](https://poly.pizza/) <br />
+[🆓 HDRi Haven](https://hdri-haven.com/) <br />
