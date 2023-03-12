@@ -6,6 +6,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [📄 Choosing a VR headset](https://www.reddit.com/r/virtualreality/wiki/faq/choosing2/) (wiki from r/virtualreality) <br />
 [📄 VR-Compare](https://vr-compare.com/) is a website that allows users to compare virtual reality (VR) products and experiences. <br />
 ## XR Guides, Tutorials and Articles
+### General
 [📄 Practical VR: A Design Cheat Sheet](https://virtualrealitypop.com/practical-vr-ce80427e8e9d) <br />
 [📄 Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) <br />
 [📄 XR Collaboration Resource Guide](https://xrcollaboration.com/#xr-resource-guide) <br />
@@ -27,3 +28,10 @@ This resource list was created as a personal reference, I hope you find it as us
 [📺 VR Interface Design Manifesto](https://vimeo.com/116101132) <br />
 [📺 Locomotion in Virtual Reality](https://www.youtube.com/watch?v=J8o71UycDa0) <br />
 [📺 Locomotion in VR: Overview of different locomotion methods on HTC Vive](https://youtu.be/p0YxzgQG2-E) <br />
+### John Carmack
+[📺 John Carmack Tech Talk with UMKC-SCE](https://youtu.be/lHLpKzUxjGk) <br />
+[📺 Deep Thoughts Engineering Speaker Series](https://youtu.be/dSCBCk4xVa0) <br />
+[📺 Oculus Connect 2 Keynote with John Carmack](https://youtu.be/Ti_3SqavXjk) <br />
+[📺 John Carmack at the University of Texas at Dallas](https://youtu.be/rBtXMtUNpdE) <br />
+[📺 John Carmack: Live & Unscripted | Facebook Connect](https://youtu.be/ZKjbJR2JYzM) <br />
+[📺 Meta Connect 2022 | Carmack Unscripted](https://youtu.be/rO9mitIEXWU) <br />
