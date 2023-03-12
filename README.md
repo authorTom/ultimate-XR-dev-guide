@@ -69,3 +69,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [r/mixedvr](https://www.reddit.com/r/mixedvr) <br />
 [r/WindowsMR](https://www.reddit.com/r/WindowsMR) <br />
 ### Forums & Development Hubs
+[Developer Forum (oculusvr.com)](https://forums.oculusvr.com/t5/Developer/ct-p/developer) <br />
+[AR/VR (XR) Discussion – Unity Forum](https://forum.unity.com/forums/ar-vr-xr-discussion.80/) <br />
+[Oculus Developer Center](https://developer.oculus.com/) <br />
+[Google VR for everyone | Google Developers](https://developers.google.com/vr) <br />
