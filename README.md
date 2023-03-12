@@ -186,7 +186,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [April Tag VR FullBody Tracker](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker) <br />
 [HaritoraX](https://en.shiftall.net/products/haritorax) <br />
 ## Hand Tracking
-Mostly hand tracking information for Unreal Engine with the Oculus Quest headsets <br />
+Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ Unreal Hand Gameplay Showcase (GitHub)](https://github.com/oculus-samples/Unreal-HandGameplay) <br />
 [📄 Designing for Hands (Meta/Oculus)](https://developer.latest.oculus.com/resources/hands-design-intro/) <br />
 [📄 Introducing ‘First Hand,’ Our Official Hand Tracking Demo Built With Presence Platform’s Interaction SDK](https://developer.oculus.com/blog/introducing-first-hand/) <br />
