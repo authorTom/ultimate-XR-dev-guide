@@ -35,3 +35,14 @@ This resource list was created as a personal reference, I hope you find it as us
 [📺 John Carmack at the University of Texas at Dallas](https://youtu.be/rBtXMtUNpdE) <br />
 [📺 John Carmack: Live & Unscripted | Facebook Connect](https://youtu.be/ZKjbJR2JYzM) <br />
 [📺 Meta Connect 2022 | Carmack Unscripted](https://youtu.be/rO9mitIEXWU) <br />
+### Unity
+[📄 Unity Manual: XR](https://docs.unity3d.com/Manual/XR.html) <br />
+[📄 Intro to VR Development with Oculus Rift (Unity)](https://www.altrealityinitiative.com/post/intro-to-vr-development-with-oculus-rift) <br />
+### Unreal Engine
+[📄 Developing for XR experiences in Unreal Engine](https://docs.unrealengine.com/5.1/en-US/developing-for-xr-experiences-in-unreal-engine/) <br />
+[📄 Mike Royal – Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) <br />
+[📄 Epic Games Learning Library for Unreal Engine & MetaHuman](https://dev.epicgames.com/community/learning?application=unreal_engine) <br />
+[📄 Your First Hour in Unreal Engine 5](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5/RPwK/your-first-hour-in-unreal-engine-5-overview) <br />
+[📄 XR Best Practices in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/xr-best-practices-in-unreal-engine/) <br />
+[📺 Virtual Reality and OpenXR in UE5 | Unreal Fest 2022](https://www.youtube.com/watch?v=JD95BklloHk) <br />
+[📺 What You Didn’t Know About VR Development in Unreal Engine | Inside Unreal](https://www.youtube.com/live/vT1T2unF8EI?feature=share) <br />
