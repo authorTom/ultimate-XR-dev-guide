@@ -218,3 +218,16 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ Oculus Source Distribution for Unreal Engine](https://developer.oculus.com/documentation/unreal/unreal-compatibility-matrix/) <br />
 [🆓⚒️ LÖVR](https://lovr.org/) – An open source framework for rapidly building immersive 3D experiences. <br />
 [🆓⚒️ ApertusVR](http://apertusvr.org/) <br />
+## Performance and Benchmarking Tools
+[🆓⚒️ OpenVR Benchmark](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
+[🆓⚒️ VR Performance Toolkit](https://github.com/fholger/vrperfkit) – Performance-oriented collection of mods for VR games. <br/>
+[🆓⚒️ ReShade](https://reshade.me/) is a generic post-processing injector for games and video software. <br/>
+[🆓⚒️ RenderDoc](https://renderdoc.org/) is a debugging tool for Windows, Linux and macOS. It allows developers to capture and inspect the rendering pipeline of their applications, making it easier to identify and fix performance issues, bugs and visual artifacts. It supports Direct3D 11, Direct3D 12, Vulkan and OpenGL graphics APIs, and provides a wide range of features, including frame capture, pipeline state inspection, shader debugging, texture inspection and more. <br/>
+[⚒️ Simplygon](https://www.simplygon.com/) is for automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br/>
+[⚒️ fpsVR](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br/>
+[🆓⚒️ OVR Advanced Settings](https://store.steampowered.com/app/1009850/OVR_Advanced_Settings) – A dashboard Application for OpenVR/SteamVR, that allows you to access many settings, and provide a litany of utility features, such as timers, audio settings, push-to-talk and more. <br/>
+[📄 VR profiling Tools in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br/>
+[📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br/>
+[🆓⚒️ OpenXR Explorer](https://github.com/maluoi/openxr-explorer) is an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
+[🆓⚒️ Intel® Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) – A command line and scripting interface allows users to access frameworks that expose capture and playback functionalities in Intel® Graphics Performance Analyzers (Intel® GPA). <br/>
+[🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br/>
