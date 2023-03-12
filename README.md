@@ -174,3 +174,14 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ Audacity](https://www.audacityteam.org/) is a free and open-source digital audio editor and recording application. <br />
 [🆓 ZapSplat](https://www.zapsplat.com/) free sound effects and royalty free music soundtracks. <br />
 [🆓 Purple Planet](https://www.purple-planet.com/) is a collection of music written and performed by Chris Martyn and Geoff Harvey. <br />
+## Motion Capture, Tracking & Rigging Tools
+[⚒️ Rokoko](https://www.rokoko.com/) <br />
+[Xsens](https://www.movella.com/) <br />
+[⚒️ RADiCAL](https://radicalmotion.com/) <br />
+[🆓 ⚒️ Amethyst](https://k2vr.tech/) <br />
+[🆓⚒️ Live Link Face for Unreal Engine (iOS)](https://apps.apple.com/us/app/live-link-face/id1495370836) <br />
+[🆓⚒️ accuRIG](https://actorcore.reallusion.com/auto-rig) <br />
+[SlimeVR](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker) <br />
+[VIVE Tracker](https://www.vive.com/us/accessory/tracker3/) <br />
+[April Tag VR FullBody Tracker](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker) <br />
+[HaritoraX](https://en.shiftall.net/products/haritorax) <br />
