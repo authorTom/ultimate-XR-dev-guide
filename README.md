@@ -73,3 +73,16 @@ This resource list was created as a personal reference, I hope you find it as us
 [AR/VR (XR) Discussion – Unity Forum](https://forum.unity.com/forums/ar-vr-xr-discussion.80/) <br />
 [Oculus Developer Center](https://developer.oculus.com/) <br />
 [Google VR for everyone | Google Developers](https://developers.google.com/vr) <br />
+## XR YouTube Channels
+### General
+[VR Playground](https://www.youtube.com/@VRPlayground) <br />
+[Quinn Kuslich](https://www.youtube.com/@QuinnKuslich) <br />
+[Just2Devs](https://www.youtube.com/@Just2Devs) <br />
+[XR Bootcamp](https://www.youtube.com/@XRBootcamp) <br />
+[Lucas VRTech](https://www.youtube.com/@LucasVRTech) <br />
+[GDXR](https://www.youtube.com/@GDXR) <br />
+[VR with Andrew](https://www.youtube.com/@VRwithAndrew) <br />
+[Fist Full of Shrimp](https://www.youtube.com/@fistfullofshrimp5189) <br />
+[Valem](https://www.youtube.com/@ValemVR) <br />
+[Justin P Barnett](https://www.youtube.com/@JustinPBarnett) <br />
+[Dilmer Valecillos](https://www.youtube.com/@dilmerv) <br />
