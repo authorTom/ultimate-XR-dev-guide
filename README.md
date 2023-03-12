@@ -86,3 +86,27 @@ This resource list was created as a personal reference, I hope you find it as us
 [Valem](https://www.youtube.com/@ValemVR) <br />
 [Justin P Barnett](https://www.youtube.com/@JustinPBarnett) <br />
 [Dilmer Valecillos](https://www.youtube.com/@dilmerv) <br />
+## Game Development
+[UnrealSensei](https://www.youtube.com/@UnrealSensei) <br />
+[Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
+[Virtus Learning Hub](https://www.youtube.com/@VirtusEdu) <br />
+[Smart Poly](https://www.youtube.com/@SmartPoly) <br />
+[Ivica Milarić](https://www.youtube.com/@IvicaMilaric) <br />
+[UnrealSensei](https://www.youtube.com/@UnrealSensei) <br />
+[Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
+[Virtus Learning Hub](https://www.youtube.com/@VirtusEdu) <br />
+[Ivica Milarić](https://www.youtube.com/@IvicaMilaric) <br />
+## Blender
+[CG Cookie](https://www.youtube.com/@cg_cookie) <br />
+[Blender Guru](https://www.youtube.com/@blenderguruofficial) <br />
+[YanSculpts](https://www.youtube.com/@yansculpts) <br />
+[Grant Abbitt](https://www.youtube.com/@grabbitt) <br />
+[CG Masters](https://www.youtube.com/@blengine) <br />
+[Ducky 3D](https://www.youtube.com/@TheDucky3D) <br />
+[IanHubert](https://www.youtube.com/@IanHubert2) <br />
+## Related
+[FlippedNormals](https://www.youtube.com/@FlippedNormals) <br />
+[Cinematography Database](https://www.youtube.com/@CinematographyDatabase) <br />
+[RelaxKiral](https://www.youtube.com/@RelaxKiral) <br />
+[Eric V. Tuber](https://www.youtube.com/@EricVTuber) <br />
+[iBrews](https://www.youtube.com/@ibrews) <br />
