@@ -46,3 +46,26 @@ This resource list was created as a personal reference, I hope you find it as us
 [📄 XR Best Practices in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/xr-best-practices-in-unreal-engine/) <br />
 [📺 Virtual Reality and OpenXR in UE5 | Unreal Fest 2022](https://www.youtube.com/watch?v=JD95BklloHk) <br />
 [📺 What You Didn’t Know About VR Development in Unreal Engine | Inside Unreal](https://www.youtube.com/live/vT1T2unF8EI?feature=share) <br />
+## Social & Community
+### Discord Servers
+[Virtual Reality](https://discord.gg/virtualreality) <br />
+[Unreal Slackers](https://discord.gg/unreal-slackers) <br />
+[XR Creators](https://discord.gg/aJxfbNTAHN) <br />
+[Flatscreen to VR Modding](https://discord.gg/hEGRD8xX) <br />
+[LucidVR](https://discord.gg/lucidvr) <br />
+### Subreddits
+[r/oculus](https://www.reddit.com/r/oculus) <br />
+[r/OculusQuest](https://www.reddit.com/r/OculusQuest) <br />
+[r/QuestPro](https://www.reddit.com/r/QuestPro) <br />
+[r/SteamVR](https://www.reddit.com/r/SteamVR) <br />
+[r/Unity](https://www.reddit.com/r/Unity) <br />
+[r/Unity3D](https://www.reddit.com/r/Unity3D) <br />
+[r/Unrealengine](https://www.reddit.com/r/Unrealengine) <br />
+[r/Virtualreality](https://www.reddit.com/r/Virtualreality) <br />
+[r/VRGaming](https://www.reddit.com/r/VRGaming) <br />
+[r/augmentedreality](https://www.reddit.com/r/augmentedreality) <br />
+[r/learnVRdev](https://www.reddit.com/r/learnVRdev) <br />
+[r/blender](https://www.reddit.com/r/blender) <br />
+[r/mixedvr](https://www.reddit.com/r/mixedvr) <br />
+[r/WindowsMR](https://www.reddit.com/r/WindowsMR) <br />
+### Forums & Development Hubs
