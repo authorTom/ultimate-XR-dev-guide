@@ -150,3 +150,13 @@ This resource list was created as a personal reference, I hope you find it as us
 [⚒️ Maya](https://www.autodesk.com/products/maya) <br />
 [⚒️ Marvelous Designer](https://www.marvelousdesigner.com/) <br />
 [⚒️ 3D Character Maker](https://www.reallusion.com/character-creator/) <br />
+### Photogrammetry
+[📄 Getting started with Photogrammetry — with a Smartphone camera (2019)](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72) <br />
+[📄 A Guide to Photogrammetry Photography (2020)](https://journalists.org/resources/a-guide-to-photogrammetry-photography/) <br />
+[🆓 ⚒️ Polycam](https://poly.cam/) <br />
+[🆓 ⚒️ RealityScan](https://apps.apple.com/us/app/realityscan/id1584832280) <br />
+### NeRF: Neural Radiance Fields
+[📄 NeRF: Neural Radiance Fields (matthewtancik.com)](https://www.matthewtancik.com/nerf) <br />
+[🆓⚒️ GitHub – bmild/nerf: Code release for NeRF (Neural Radiance Fields)](https://github.com/bmild/nerf) <br />
+[🆓⚒️ Luma AI](https://lumalabs.ai/) <br />
+[📺 Why THIS is the Future of Imagery: The Corridor Crew (YouTube)](https://youtu.be/YX5AoaWrowY) <br />
