@@ -231,3 +231,14 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ OpenXR Explorer](https://github.com/maluoi/openxr-explorer) is an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
 [🆓⚒️ Intel® Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) – A command line and scripting interface allows users to access frameworks that expose capture and playback functionalities in Intel® Graphics Performance Analyzers (Intel® GPA). <br/>
 [🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br/>
+### Meta and Quest Specific
+[🆓⚒️ Quest Games Optimizer](https://anagan79.itch.io/quest-games-optimizer) – A community-based tool to improve the Quest graphics and gaming experience. <br />
+[📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
+[📄 Art Direction for All-in-One VR Performance](https://developer.oculus.com/documentation/unreal/po-art-direction/) <br />
+[🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
+[📄 Basic Optimization Workflow for Apps](https://developer.oculus.com/documentation/unreal/po-perf-opt-mobile/) <br />
+[📄 Testing and Performance Analysis](https://developer.oculus.com/documentation/unity/unity-perf/) <br />
+[📄 Performance Analyzer and Metrics (Perfetto-trace)](https://developer.oculus.com/documentation/native/android/ts-odh-logs-metrics/#run-perfetto-trace) <br />
+[📄 Open World Games and Asset Streaming with Unity](https://developer.oculus.com/documentation/unity/po-assetstreaming/) <br />
+[📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
+[📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
