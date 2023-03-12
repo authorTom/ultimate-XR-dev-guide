@@ -242,3 +242,15 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Open World Games and Asset Streaming with Unity](https://developer.oculus.com/documentation/unity/po-assetstreaming/) <br />
 [📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
+## Sketching, Prototyping & Design Tools
+[🆓⚒️ Gravity Sketch](https://www.gravitysketch.com/) is an intuitive 3D design platform. <br />
+[⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe) – The XR Wireframe kit, is designed in Gravity Sketch to be used in the process of UX/ UI design for AR, VR and, MR products. <br />
+[⚒️ Adobe Aero](https://www.adobe.com/uk/products/aero.html) is an intuitive way to build, view and share robust immersive storytelling experiences in mobile AR. <br />
+[🆓 ⚒️ 360° Art](http://www.oniride.com/360art) is a free 360° Art Photoshop Plugin which let’s you create VR ready artworks and comics. <br />
+[🆓 ⚒️ Snap AR Lens Studio](https://ar.snap.com/lens-studio) is a powerful application designed for artists and developers to build augmented reality experiences for hundreds of millions of Snapchatters. <br />
+[🆓⚒️ Meta Spark AR Studio](https://sparkar.facebook.com/ar-studio) is Meta’s full suite of technology, tools and educational resources that enable AR content across all Meta technologies. <br />
+[⚒️ Byldr](https://www.byldr.app/) is a no-code platform that maximizes the capability of on-device app development. <br />
+[⚒️ XR Thinking](https://www.xrthinking.com/) is for XR prototyping and mockups. <br />
+[🆓⚒️ Tvori](https://tvori.co/) is for prototyping interfaces, products, and design experiences for XR. <br />
+[⚒️ ShapesXR](https://www.shapesxr.com/) is a VR creation and collaboration platform for remote teams. <br />
+[🆓⚒️ Nvidia Omniverse Create XR](https://www.nvidia.com/en-gb/omniverse/) is a software platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time. <br />
