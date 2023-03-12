@@ -136,3 +136,17 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓 MorphoSource](https://www.morphosource.org/) <br />
 [🆓 poly.pizza](https://poly.pizza/) <br />
 [🆓 HDRi Haven](https://hdri-haven.com/) <br />
+### 3D Modelling Tools
+[🆓⚒️ Blender](https://www.blender.org/) <br />
+[🆓⚒️ ZBrushCoreMini](https://www.maxon.net/en/zbrushcoremini) <br />
+[🆓⚒️ Clara.io](https://clara.io/) <br />
+[🆓⚒️ MetaHuman Creator](https://metahuman.unrealengine.com/) <br />
+[🆓⚒️ Mixamo](https://www.mixamo.com/) <br />
+[🆓⚒️ Wings 3D](http://www.wings3d.com/) <br />
+[🆓⚒️ FreeCAD](https://www.freecad.org/) <br />
+[🆓 ⚒️ Adobe Medium](https://www.adobe.com/products/medium.html) <br />
+[⚒️ 3DCoat](https://3dcoat.com/) <br />
+[⚒️ Adobe Substance 3D Modeler](https://www.adobe.com/products/substance3d-modeler.html) <br />
+[⚒️ Maya](https://www.autodesk.com/products/maya) <br />
+[⚒️ Marvelous Designer](https://www.marvelousdesigner.com/) <br />
+[⚒️ 3D Character Maker](https://www.reallusion.com/character-creator/) <br />
