@@ -160,3 +160,17 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ GitHub – bmild/nerf: Code release for NeRF (Neural Radiance Fields)](https://github.com/bmild/nerf) <br />
 [🆓⚒️ Luma AI](https://lumalabs.ai/) <br />
 [📺 Why THIS is the Future of Imagery: The Corridor Crew (YouTube)](https://youtu.be/YX5AoaWrowY) <br />
+### Textures
+[⚒️ Adobe Substance 3D Painter](https://www.adobe.com/uk/products/substance3d-painter.html) <br />
+[⚒️ Adobe Substance 3D Sampler](https://www.adobe.com/uk/products/substance3d-sampler.html) <br />
+[🆓 MatCap](https://github.com/nidorx/matcaps) <br />
+[🆓 ArtStation: Miloš Belanec](https://www.artstation.com/deepmind/albums/89651) <br />
+[🆓 Poliigon: Free Textures](https://www.poliigon.com/search?credit=0) <br />
+[🆓 30 free PBR materials](https://lebediev.gumroad.com/l/ekRhc) <br />
+[Plain Textures](https://www.plaintextures.com/) <br />
+[Textures.com](https://www.textures.com/) <br />
+### Audio
+[🆓⚒️ FMOD](https://www.fmod.com/) is a software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media. <br />
+[🆓⚒️ Audacity](https://www.audacityteam.org/) is a free and open-source digital audio editor and recording application. <br />
+[🆓 ZapSplat](https://www.zapsplat.com/) free sound effects and royalty free music soundtracks. <br />
+[🆓 Purple Planet](https://www.purple-planet.com/) is a collection of music written and performed by Chris Martyn and Geoff Harvey. <br />
