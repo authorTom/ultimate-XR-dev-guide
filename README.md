@@ -170,10 +170,10 @@ This resource list was created as a personal reference, I hope you find it as us
 [Plain Textures](https://www.plaintextures.com/) <br />
 [Textures.com](https://www.textures.com/) <br />
 ### Audio
-[🆓⚒️ FMOD](https://www.fmod.com/) is a software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media. <br />
-[🆓⚒️ Audacity](https://www.audacityteam.org/) is a free and open-source digital audio editor and recording application. <br />
-[🆓 ZapSplat](https://www.zapsplat.com/) free sound effects and royalty free music soundtracks. <br />
-[🆓 Purple Planet](https://www.purple-planet.com/) is a collection of music written and performed by Chris Martyn and Geoff Harvey. <br />
+[🆓⚒️ FMOD:](https://www.fmod.com/) a software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media. <br />
+[🆓⚒️ Audacity:](https://www.audacityteam.org/) a free and open-source digital audio editor and recording application. <br />
+[🆓 ZapSplat:](https://www.zapsplat.com/) free sound effects and royalty free music soundtracks. <br />
+[🆓 Purple Planet:](https://www.purple-planet.com/) a collection of music written and performed by Chris Martyn and Geoff Harvey. <br />
 ## Motion Capture, Tracking & Rigging Tools
 [⚒️ Rokoko](https://www.rokoko.com/) <br />
 [Xsens](https://www.movella.com/) <br />
@@ -204,35 +204,35 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📺 Oculus Quest Hand Tracking Setup – Unreal Engine VR Tutorial](https://youtu.be/bqNbEtbaN0M) <br />
 [📺 Unreal Engine Hand Animations – Unreal Engine 5 VR Tutorial](https://youtu.be/8wC6Vg3fHcQ) <br />
 ## XR Development Tools & Frameworks
-[🆓⚒️ Babylon.js](https://www.babylonjs.com/) is a JavaScript library for building 3D graphics and animations using WebGL (Web Graphics Library). It was developed by David Catuhe and the Babylon.js team, and is designed to make it easy to create 3D graphics and animations for web applications and games. <br />
-[🆓⚒️ VR Builder](https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913) is a VR creation open-source toolkit for Unity. <br />
-[🆓⚒️ ARKit](https://developer.apple.com/augmented-reality/arkit/) (Apple) is a development platform that enables app developers to build AR experiences quickly and easily into their apps and games. <br />
-[🆓⚒️ RealityKit](https://developer.apple.com/documentation/realitykit) (Apple) is to simulate and render 3D content for use in your augmented reality apps. <br />
-[🆓⚒️ SceneKit](https://developer.apple.com/scenekit/) (Apple) is a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your apps. <br />
-[🆓⚒️ BlenderXR](https://github.com/MARUI-PlugIn/BlenderXR) library is to use Blender with common VR/AR hardware. It supports Oculus Rift, HTC Vive, WindowsMR (via SteamVR), and Fove headsets. <br />
-[📄 XRAccessibility project](https://github.com/XRAccessibility/xraccessibility.github.io) is an initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms. <br />
-[📄 Inclusive User Testing in VR](https://devpost.com/software/inclusive-user-testing-in-vr) This Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard. <br />
-[🆓⚒️ A-Frame](https://aframe.io/) web framework for building virtual reality experiences. Users can make WebVR with HTML and Entity-Component, which can be viewed on Vive, Rift, Daydream, GearVR, and desktops. <br />
-[🆓⚒️ Unity XR Interaction Toolkit package](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html) is a high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events. <br />
-[⚒️ Advanced Framework Core](https://dev.humancodeable.org/our-services-2/advanced-framework-core/) – A complete framework to develop professional VR, Mobile and Desktop applications such as games, experiences, Architectural Viz or product presentations. <br />
+[🆓⚒️ Babylon.js:](https://www.babylonjs.com/) a JavaScript library for building 3D graphics and animations using WebGL (Web Graphics Library). It was developed by David Catuhe and the Babylon.js team, and is designed to make it easy to create 3D graphics and animations for web applications and games. <br />
+[🆓⚒️ VR Builder:](https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913) a VR creation open-source toolkit for Unity. <br />
+[🆓⚒️ ARKit:](https://developer.apple.com/augmented-reality/arkit/) a development platform that enables app developers to build AR experiences quickly and easily into their apps and games (Apple). <br />
+[🆓⚒️ RealityKit:](https://developer.apple.com/documentation/realitykit) to simulate and render 3D content for use in your augmented reality apps (Apple). <br />
+[🆓⚒️ SceneKit:](https://developer.apple.com/scenekit/) a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your apps (Apple). <br />
+[🆓⚒️ BlenderXR:](https://github.com/MARUI-PlugIn/BlenderXR) a library to use Blender with common VR/AR hardware. It supports Oculus Rift, HTC Vive, WindowsMR (via SteamVR), and Fove headsets. <br />
+[📄 XRAccessibility project:](https://github.com/XRAccessibility/xraccessibility.github.io) a initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms. <br />
+[📄 Inclusive User Testing in VR:](https://devpost.com/software/inclusive-user-testing-in-vr) This Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard. <br />
+[🆓⚒️ A-Frame:](https://aframe.io/) a web framework for building virtual reality experiences. Users can make WebVR with HTML and Entity-Component, which can be viewed on Vive, Rift, Daydream, GearVR, and desktops. <br />
+[🆓⚒️ Unity XR Interaction Toolkit package:](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html) a high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events. <br />
+[⚒️ Advanced Framework Core:](https://dev.humancodeable.org/our-services-2/advanced-framework-core/) a complete framework to develop professional VR, Mobile and Desktop applications such as games, experiences, Architectural Viz or product presentations. <br />
 [🆓⚒️ Oculus Source Distribution for Unreal Engine](https://developer.oculus.com/documentation/unreal/unreal-compatibility-matrix/) <br />
-[🆓⚒️ LÖVR](https://lovr.org/) – An open source framework for rapidly building immersive 3D experiences. <br />
+[🆓⚒️ LÖVR:](https://lovr.org/) an open source framework for rapidly building immersive 3D experiences. <br />
 [🆓⚒️ ApertusVR](http://apertusvr.org/) <br />
 ## Performance and Benchmarking Tools
-[🆓⚒️ OpenVR Benchmark](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) is the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
-[🆓⚒️ VR Performance Toolkit](https://github.com/fholger/vrperfkit) – Performance-oriented collection of mods for VR games. <br/>
-[🆓⚒️ ReShade](https://reshade.me/) is a generic post-processing injector for games and video software. <br/>
-[🆓⚒️ RenderDoc](https://renderdoc.org/) is a debugging tool for Windows, Linux and macOS. It allows developers to capture and inspect the rendering pipeline of their applications, making it easier to identify and fix performance issues, bugs and visual artifacts. It supports Direct3D 11, Direct3D 12, Vulkan and OpenGL graphics APIs, and provides a wide range of features, including frame capture, pipeline state inspection, shader debugging, texture inspection and more. <br/>
-[⚒️ Simplygon](https://www.simplygon.com/) is for automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br/>
-[⚒️ fpsVR](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br/>
-[🆓⚒️ OVR Advanced Settings](https://store.steampowered.com/app/1009850/OVR_Advanced_Settings) – A dashboard Application for OpenVR/SteamVR, that allows you to access many settings, and provide a litany of utility features, such as timers, audio settings, push-to-talk and more. <br/>
+[🆓⚒️ OpenVR Benchmark:](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
+[🆓⚒️ VR Performance Toolkit:](https://github.com/fholger/vrperfkit) performance-oriented collection of mods for VR games. <br/>
+[🆓⚒️ ReShade:](https://reshade.me/) a generic post-processing injector for games and video software. <br/>
+[🆓⚒️ RenderDoc:](https://renderdoc.org/) a debugging tool for Windows, Linux and macOS. It allows developers to capture and inspect the rendering pipeline of their applications, making it easier to identify and fix performance issues, bugs and visual artifacts. It supports Direct3D 11, Direct3D 12, Vulkan and OpenGL graphics APIs, and provides a wide range of features, including frame capture, pipeline state inspection, shader debugging, texture inspection and more. <br/>
+[⚒️ Simplygon:](https://www.simplygon.com/) perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br/>
+[⚒️ fpsVR:](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br/>
+[🆓⚒️ OVR Advanced Settings:](https://store.steampowered.com/app/1009850/OVR_Advanced_Settings) a dashboard Application for OpenVR/SteamVR, that allows you to access many settings, and provide a litany of utility features, such as timers, audio settings, push-to-talk and more. <br/>
 [📄 VR profiling Tools in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br/>
 [📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br/>
-[🆓⚒️ OpenXR Explorer](https://github.com/maluoi/openxr-explorer) is an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
-[🆓⚒️ Intel® Graphics Performance Analyzers](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) – A command line and scripting interface allows users to access frameworks that expose capture and playback functionalities in Intel® Graphics Performance Analyzers (Intel® GPA). <br/>
+[🆓⚒️ OpenXR Explorer:](https://github.com/maluoi/openxr-explorer) an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
+[🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) a collection of tools which allow users to access frameworks that use capture and playback functionalities. <br/>
 [🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br/>
 ### Meta and Quest Specific
-[🆓⚒️ Quest Games Optimizer](https://anagan79.itch.io/quest-games-optimizer) – A community-based tool to improve the Quest graphics and gaming experience. <br />
+[🆓⚒️ Quest Games Optimizer:](https://anagan79.itch.io/quest-games-optimizer) a community-based tool to improve the Quest graphics and gaming experience. <br />
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
 [📄 Art Direction for All-in-One VR Performance](https://developer.oculus.com/documentation/unreal/po-art-direction/) <br />
 [🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
@@ -243,28 +243,28 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
 ## Sketching, Prototyping & Design Tools
-[🆓⚒️ Gravity Sketch](https://www.gravitysketch.com/) is an intuitive 3D design platform. <br />
+[🆓⚒️ Gravity Sketch:](https://www.gravitysketch.com/) an intuitive 3D design platform. <br />
 [⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe) – The XR Wireframe kit, is designed in Gravity Sketch to be used in the process of UX/ UI design for AR, VR and, MR products. <br />
-[⚒️ Adobe Aero](https://www.adobe.com/uk/products/aero.html) is an intuitive way to build, view and share robust immersive storytelling experiences in mobile AR. <br />
-[🆓 ⚒️ 360° Art](http://www.oniride.com/360art) is a free 360° Art Photoshop Plugin which let’s you create VR ready artworks and comics. <br />
-[🆓 ⚒️ Snap AR Lens Studio](https://ar.snap.com/lens-studio) is a powerful application designed for artists and developers to build augmented reality experiences for hundreds of millions of Snapchatters. <br />
+[⚒️ Adobe Aero:](https://www.adobe.com/uk/products/aero.html) an intuitive way to build, view and share robust immersive storytelling experiences in mobile AR. <br />
+[🆓 ⚒️ 360° Art:](http://www.oniride.com/360art) a free 360° Art Photoshop Plugin which let’s you create VR ready artworks and comics. <br />
+[🆓 ⚒️ Snap AR Lens Studio:](https://ar.snap.com/lens-studio) a powerful application designed for artists and developers to build augmented reality experiences for hundreds of millions of Snapchatters. <br />
 [🆓⚒️ Meta Spark AR Studio](https://sparkar.facebook.com/ar-studio) is Meta’s full suite of technology, tools and educational resources that enable AR content across all Meta technologies. <br />
-[⚒️ Byldr](https://www.byldr.app/) is a no-code platform that maximizes the capability of on-device app development. <br />
-[⚒️ XR Thinking](https://www.xrthinking.com/) is for XR prototyping and mockups. <br />
-[🆓⚒️ Tvori](https://tvori.co/) is for prototyping interfaces, products, and design experiences for XR. <br />
-[⚒️ ShapesXR](https://www.shapesxr.com/) is a VR creation and collaboration platform for remote teams. <br />
-[🆓⚒️ Nvidia Omniverse Create XR](https://www.nvidia.com/en-gb/omniverse/) is a software platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time. <br />
+[⚒️ Byldr:](https://www.byldr.app/) a no-code platform that maximizes the capability of on-device app development. <br />
+[⚒️ XR Thinking:](https://www.xrthinking.com/) for XR prototyping and mockups. <br />
+[🆓⚒️ Tvori:](https://tvori.co/) or prototyping interfaces, products, and design experiences for XR. <br />
+[⚒️ ShapesXR:](https://www.shapesxr.com/) a VR creation and collaboration platform for remote teams. <br />
+[🆓⚒️ Nvidia Omniverse Create XR:](https://www.nvidia.com/en-gb/omniverse/) a software platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time. <br />
 ## Interesting Projects
-[🆓⚒️ VRChat](https://hello.vrchat.com/) is a virtual reality social platform that allows users to interact with each other in virtual worlds and environments. It allows users to create and customize their own avatars, explore virtual worlds and participate in activities such as games, conversations, and events. <br />
-[🆓⚒️ LucidVR](https://github.com/LucidVR/lucidgloves) So you want to have yourself a pair of working VR Haptic Gloves? <br />
-[🆓⚒️ OpenGloves](https://store.steampowered.com/app/1574050/OpenGloves/) is an open source, OpenVR Driver that allows for use of DIY Virtual Reality Hardware in SteamVR games. <br />
+[🆓⚒️ VRChat:](https://hello.vrchat.com/) a virtual reality social platform that allows users to interact with each other in virtual worlds and environments. It allows users to create and customize their own avatars, explore virtual worlds and participate in activities such as games, conversations, and events. <br />
+[🆓⚒️ LucidVR:](https://github.com/LucidVR/lucidgloves) So you want to have yourself a pair of working VR Haptic Gloves? <br />
+[🆓⚒️ OpenGloves:](https://store.steampowered.com/app/1574050/OpenGloves/) an open source, OpenVR Driver that allows for use of DIY Virtual Reality Hardware in SteamVR games. <br />
 [🆓⚒️ ALVR](https://github.com/alvr-org/ALVR) – Air Light VR allows you to stream VR games from your PC to your headset via Wi-Fi. <br />
 Tilt Five is a company that makes augmented reality glasses and accessories for tabletop gaming. <br />
-[🆓⚒️ OpenXR](https://www.khronos.org/openxr/) is an open standard that allows virtual reality and augmented reality applications to be developed and run on multiple different hardware platforms, such as VR headsets and AR devices. This means that developers can create VR and AR experiences that can be used on any device that supports the OpenXR standard, rather than being limited to a specific brand or model. This makes it easier for developers to create and distribute their VR and AR applications, and also allows users to access a wider variety of content on their devices. <br />
-[🆓⚒️ OpenHaptics](https://openhaptics.github.io/) is an open-source firmware for haptic-feedback devices that are used in Virtual Reality environments. OpenHaptics is designed to be easy to use and integrate with existing VR systems, making it a valuable tool for anyone working in the field of VR. The source code for OpenHaptics is available for free on GitHub, allowing anyone to contribute to its development and improvement. <br />
-[🆓⚒️ EyeTrackVR](https://github.com/RedHawk989/EyeTrackVR) is an open source and affordable VR eye tracker platform for VRChat. <br />
-[🆓⚒️ Ethereal Engine](https://www.etherealengine.org/) is an end-to-end framework for the web, built on popular Javascript frameworks. Scalable multiplayer infrastructure with voice, video, expressive avatars, a visual editor and portals between worlds. Build your own games and social experiences and link them together. <br />
-[🆓⚒️ Half-Life: Alyx Workshop Tools](https://developer.valvesoftware.com/wiki/Half-Life:_Alyx_Workshop_Tools) is a set of software utilities available as a free download for Half-Life: Alyx that allow you to create items for inclusion in the Steam Workshop and your own custom game addons. <br />
-[🆓⚒️ OpenHMD](http://www.openhmd.net/) is a Free and Open-Source API and drivers for immersive technology, such as head mounted displays with built in head tracking. <br />
+[🆓⚒️ OpenXR:](https://www.khronos.org/openxr/) an open standard that allows virtual reality and augmented reality applications to be developed and run on multiple different hardware platforms, such as VR headsets and AR devices. This means that developers can create VR and AR experiences that can be used on any device that supports the OpenXR standard, rather than being limited to a specific brand or model. This makes it easier for developers to create and distribute their VR and AR applications, and also allows users to access a wider variety of content on their devices. <br />
+[🆓⚒️ OpenHaptics:](https://openhaptics.github.io/) an open-source firmware for haptic-feedback devices that are used in Virtual Reality environments. OpenHaptics is designed to be easy to use and integrate with existing VR systems, making it a valuable tool for anyone working in the field of VR. The source code for OpenHaptics is available for free on GitHub, allowing anyone to contribute to its development and improvement. <br />
+[🆓⚒️ EyeTrackVR:](https://github.com/RedHawk989/EyeTrackVR) an open source and affordable VR eye tracker platform for VRChat. <br />
+[🆓⚒️ Ethereal Engine:](https://www.etherealengine.org/) an end-to-end framework for the web, built on popular Javascript frameworks. Scalable multiplayer infrastructure with voice, video, expressive avatars, a visual editor and portals between worlds. Build your own games and social experiences and link them together. <br />
+[🆓⚒️ Half-Life: Alyx Workshop Tools:](https://developer.valvesoftware.com/wiki/Half-Life:_Alyx_Workshop_Tools) a set of software utilities available as a free download for Half-Life: Alyx that allow you to create items for inclusion in the Steam Workshop and your own custom game addons. <br />
+[🆓⚒️ OpenHMD:](http://www.openhmd.net/) a Free and Open-Source API and drivers for immersive technology, such as head mounted displays with built in head tracking. <br />
 [⚒️ Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/) helps to reduce motion sickness. <br />
 [🆓⚒️ Interhaptics by Razor](https://www.interhaptics.com/) – design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool. <br />
