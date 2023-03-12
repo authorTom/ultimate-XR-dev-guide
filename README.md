@@ -110,3 +110,11 @@ This resource list was created as a personal reference, I hope you find it as us
 [RelaxKiral](https://www.youtube.com/@RelaxKiral) <br />
 [Eric V. Tuber](https://www.youtube.com/@EricVTuber) <br />
 [iBrews](https://www.youtube.com/@ibrews) <br />
+## Game Engines
+[⚒️ Unreal Engine](https://www.unrealengine.com/) <br />
+[⚒️ Unity](https://unity.com/) <br />
+[⚒️ Cry Engine](https://www.cryengine.com/) <br />
+[🆓⚒️ Godot Engine](https://godotengine.org/) <br />
+[🆓⚒️ AppGameKit VR](https://www.appgamekit.com/dlc/vr) <br />
+[🆓⚒️ Open 3D Engine](https://www.o3de.org/) <br />
+[🆓⚒️ ApterusVR](http://apertusvr.org/) <br />
