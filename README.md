@@ -1,1 +1,1 @@
-A development resource list for all things XR
+# H1 The Ultimate XR Developers Resource Guide 
