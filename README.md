@@ -185,3 +185,21 @@ This resource list was created as a personal reference, I hope you find it as us
 [VIVE Tracker](https://www.vive.com/us/accessory/tracker3/) <br />
 [April Tag VR FullBody Tracker](https://github.com/ju1ce/April-Tag-VR-FullBody-Tracker) <br />
 [HaritoraX](https://en.shiftall.net/products/haritorax) <br />
+## Hand Tracking
+Mostly hand tracking information for Unreal Engine with the Oculus Quest headsets <br />
+[🆓⚒️ Unreal Hand Gameplay Showcase (GitHub)](https://github.com/oculus-samples/Unreal-HandGameplay) <br />
+[📄 Designing for Hands (Meta/Oculus)](https://developer.latest.oculus.com/resources/hands-design-intro/) <br />
+[📄 Introducing ‘First Hand,’ Our Official Hand Tracking Demo Built With Presence Platform’s Interaction SDK](https://developer.oculus.com/blog/introducing-first-hand/) <br />
+[🆓 ⚒️ Oculus VR Hands Models](https://www.patreon.com/posts/free-oculus-vr-46544401) <br />
+[Ultraleap](https://www.ultraleap.com/) <br />
+### Quinn Kuslich (YouTube)
+[📺 VR Hands and Animations in UE5 & UE4.27 | Tutorial Part 1 | Adding Hands and Gesture Animations](https://youtu.be/mee_6vlWZ8c) <br />
+[📺 VR Hand Animation in UE5 & UE4.27 | Tutorial Part 2 | Object Specific Grip States for VR Weapons](https://youtu.be/fkW-svEaF-w) <br />
+[📺 Procedural VR Hand Animation in UE5 | Tutorial Part 3 | Half Life: Alyx Procedural Grip Animations](https://youtu.be/Lq65clDAttA) <br />
+### Just2Devs (YouTube)
+[📺 Enable Hand Tracking 2.0 in Unreal Engine](https://youtu.be/joWdCN0zLrM) <br />
+[📺 Hand Tracking in Unreal Engine 5.0](https://youtu.be/BdY8eGCwexQ) <br />
+[📺 The Just2Devs website](https://www.just2devs.com/) <br />
+### VRPlayground (YouTube)
+[📺 Oculus Quest Hand Tracking Setup – Unreal Engine VR Tutorial](https://youtu.be/bqNbEtbaN0M) <br />
+[📺 Unreal Engine Hand Animations – Unreal Engine 5 VR Tutorial](https://youtu.be/8wC6Vg3fHcQ) <br />
