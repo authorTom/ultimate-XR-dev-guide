@@ -1,6 +1,6 @@
 # The Ultimate XR Developers Resource Guide 
  
-This resource list was created as a personal reference, I hope you find it as useful as I have. Please note that there may be some overlap with general game development resources, and there is a slight bias towards Unreal Engine and Meta Quest headsets. This project is still a work in progress. <br />
+This resource list was created as a personal reference, I hope you find it as useful as I have. Please note that there may be some overlap with general game development resources, and there is a slight bias towards Unreal Engine and Meta Quest headsets. <br />
 
 ## Contents
   - [Headsets (Head Mounted Displays)](#headsets-head-mounted-displays)
