@@ -121,6 +121,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [Valem](https://www.youtube.com/@ValemVR) <br />
 [Justin P Barnett](https://www.youtube.com/@JustinPBarnett) <br />
 [Dilmer Valecillos](https://www.youtube.com/@dilmerv) <br />
+[WINBUSH](https://www.youtube.com/@JonathanWinbush) <br />
 ### Game Development
 [UnrealSensei](https://www.youtube.com/@UnrealSensei) <br />
 [Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
@@ -153,6 +154,8 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ AppGameKit VR](https://www.appgamekit.com/dlc/vr) <br />
 [🆓⚒️ Open 3D Engine](https://www.o3de.org/) <br />
 [🆓⚒️ ApterusVR](http://apertusvr.org/) <br />
+### Unreal Engine Plugins
+[🆓⚒️ VR Expansion Plugin](https://vreue4.com/) <br />
 ## Assets
 ### Premade Models
 [3D Scan Store](https://www.3dscanstore.com/) <br />
@@ -266,6 +269,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ OpenXR Explorer:](https://github.com/maluoi/openxr-explorer) an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
 [🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) a collection of tools which allow users to access frameworks that use capture and playback functionalities. <br/>
 [🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br/>
+[🆓⚒️ Nvidia VR Capture & Replay - Early Access](https://developer.nvidia.com/vcr-early-access) <br/>
 ### Meta and Quest Specific
 [🆓⚒️ Quest Games Optimizer:](https://anagan79.itch.io/quest-games-optimizer) a community-based tool to improve the Quest graphics and gaming experience. <br />
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
