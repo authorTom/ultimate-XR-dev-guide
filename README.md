@@ -189,6 +189,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ FreeCAD](https://www.freecad.org/) <br />
 [🆓 ⚒️ Adobe Medium](https://www.adobe.com/products/medium.html) <br />
 [⚒️ 3DCoat](https://3dcoat.com/) <br />
+[⚒️ Cinema 4D](https://www.maxon.net/en/cinema-4d) <br />
 [⚒️ Adobe Substance 3D Modeler](https://www.adobe.com/products/substance3d-modeler.html) <br />
 [⚒️ Maya](https://www.autodesk.com/products/maya) <br />
 [⚒️ Marvelous Designer](https://www.marvelousdesigner.com/) <br />
@@ -293,7 +294,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) <br />
 [🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br />
 [🆓⚒️ PVRTune](https://developer.imaginationtech.com/pvrtune/) <br />
-[Superluminal](https://superluminal.eu/) <br />
+[⚒️ Superluminal](https://superluminal.eu/) <br />
 ### Peformance Tools & Plugins
 [🆓⚒️ OpenVR Benchmark:](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
 [🆓⚒️ VR Performance Toolkit:](https://github.com/fholger/vrperfkit) performance-oriented collection of mods for VR games. <br/>
