@@ -277,15 +277,20 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Performance Analyzer and Metrics (Perfetto-trace)](https://developer.oculus.com/documentation/native/android/ts-odh-logs-metrics/#run-perfetto-trace) <br />
 [📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
+### Profiling Tools
+[🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
+[🆓⚒️ RenderDoc:](https://renderdoc.org/) a debugging tool for Windows, Linux and macOS. It allows developers to capture and inspect the rendering pipeline of their applications, making it easier to identify and fix performance issues, bugs and visual artifacts. It supports Direct3D 11, Direct3D 12, Vulkan and OpenGL graphics APIs, and provides a wide range of features, including frame capture, pipeline state inspection, shader debugging, texture inspection and more. <br />
+[🆓⚒️ SteamVR Frame Timing](https://developer.valvesoftware.com/wiki/SteamVR/Frame_Timing) <br />
+[🆓⚒️ NVIDIA Visual Profiler](https://developer.nvidia.com/nvidia-visual-profiler) <br />
+[🆓⚒️ NVIDIA VR Capture & Replay - Early Access](https://developer.nvidia.com/vcr-early-access) <br />
+[🆓⚒️ NVIDIA Performance Analysis Tools](https://developer.nvidia.com/performance-analysis-tools) <br />
+[🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/) <br />
+[🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) a collection of tools which allow users to access frameworks that use capture and playback functionalities. <br />
+[🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br />
 ### Peformance Tools & Plugins
 [🆓⚒️ OpenVR Benchmark:](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
-[🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
-[🆓⚒️ RenderDoc:](https://renderdoc.org/) a debugging tool for Windows, Linux and macOS. It allows developers to capture and inspect the rendering pipeline of their applications, making it easier to identify and fix performance issues, bugs and visual artifacts. It supports Direct3D 11, Direct3D 12, Vulkan and OpenGL graphics APIs, and provides a wide range of features, including frame capture, pipeline state inspection, shader debugging, texture inspection and more. <br/>
 [🆓⚒️ VR Performance Toolkit:](https://github.com/fholger/vrperfkit) performance-oriented collection of mods for VR games. <br/>
 [🆓⚒️ OpenXR Explorer:](https://github.com/maluoi/openxr-explorer) an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
-[🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) a collection of tools which allow users to access frameworks that use capture and playback functionalities. <br/>
-[🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br/>
-[🆓⚒️ Nvidia VR Capture & Replay - Early Access](https://developer.nvidia.com/vcr-early-access) <br/>
 [🆓⚒️ Quest Games Optimizer:](https://anagan79.itch.io/quest-games-optimizer) a community-based tool to improve the Quest graphics and gaming experience. <br />
 [🆓⚒️ ReShade:](https://reshade.me/) a generic post-processing injector for games and video software. <br/>
 [⚒️ Simplygon:](https://www.simplygon.com/) perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br />
