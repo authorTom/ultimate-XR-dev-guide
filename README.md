@@ -37,6 +37,7 @@ This resource list was created as a personal reference, I hope you find it as us
     - [General VR Performance](#general-vr-performance)
     - [Unreal Engine Performance](#unreal-engine-performance)
     - [Meta Quest Performance](#meta-quest-performance)
+    - [Profiling Tools](#profiling-tools)
     - [Peformance Tools & Plugins](#peformance-tools--plugins)
   - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
   - [Interesting Projects](#interesting-projects)
@@ -279,13 +280,13 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
 ### Profiling Tools
 [🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
-[🆓⚒️ RenderDoc:](https://renderdoc.org/) a debugging tool for Windows, Linux and macOS. It allows developers to capture and inspect the rendering pipeline of their applications, making it easier to identify and fix performance issues, bugs and visual artifacts. It supports Direct3D 11, Direct3D 12, Vulkan and OpenGL graphics APIs, and provides a wide range of features, including frame capture, pipeline state inspection, shader debugging, texture inspection and more. <br />
+[🆓⚒️ RenderDoc:](https://renderdoc.org/) <br />
 [🆓⚒️ SteamVR Frame Timing](https://developer.valvesoftware.com/wiki/SteamVR/Frame_Timing) <br />
 [🆓⚒️ NVIDIA Visual Profiler](https://developer.nvidia.com/nvidia-visual-profiler) <br />
 [🆓⚒️ NVIDIA VR Capture & Replay - Early Access](https://developer.nvidia.com/vcr-early-access) <br />
 [🆓⚒️ NVIDIA Performance Analysis Tools](https://developer.nvidia.com/performance-analysis-tools) <br />
 [🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/) <br />
-[🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) a collection of tools which allow users to access frameworks that use capture and playback functionalities. <br />
+[🆓⚒️ Intel® Graphics Performance Analyzers:](https://www.intel.com/content/www/us/en/developer/tools/graphics-performance-analyzers/overview.html) <br />
 [🆓⚒️ Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html#gs.qs0mup) <br />
 ### Peformance Tools & Plugins
 [🆓⚒️ OpenVR Benchmark:](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
