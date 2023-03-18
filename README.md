@@ -280,6 +280,8 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
 ### Profiling Tools
+Graphics profiler tools help developers optimize graphics performance by providing detailed information on how an application uses the GPU and CPU to render graphics and identify performance bottlenecks. <br />
+<br />
 [🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
 [🆓⚒️ RenderDoc](https://renderdoc.org/) <br />
 [🆓⚒️ OVR Metrics Tools](https://developer.oculus.com/downloads/package/ovr-metrics-tool/) <br />
