@@ -303,6 +303,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [⚒️ Simplygon:](https://www.simplygon.com/) perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br />
 [⚒️ fpsVR:](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br />
 [🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/) <br />
+[🆓⚒️ VRToolkit: Reshade-vrtoolkit](https://vrtoolkit.retrolux.de/) <br />
 ## Sketching, Prototyping & Design Tools
 [🆓⚒️ Gravity Sketch:](https://www.gravitysketch.com/) an intuitive 3D design platform. <br />
 [⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe) – The XR Wireframe kit, is designed in Gravity Sketch to be used in the process of UX/ UI design for AR, VR and, MR products. <br />
