@@ -262,9 +262,10 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ ApertusVR](http://apertusvr.org/) <br />
 ## Performance and Benchmarking
 ### General VR Performance
-[📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br/>
+[📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br />
 ### Unreal Engine Performance
-[📄 VR profiling Tools in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br/>
+[📄 Unreal Engine Performance Guide (GPUOpen)](https://gpuopen.com/unreal-engine-performance-guide/) <br />
+[📄 VR profiling Tools in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br />
 ### Meta Quest Performance
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
 [📄 Art Direction for All-in-One VR Performance](https://developer.oculus.com/documentation/unreal/po-art-direction/) <br />
@@ -285,8 +286,9 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ Nvidia VR Capture & Replay - Early Access](https://developer.nvidia.com/vcr-early-access) <br/>
 [🆓⚒️ Quest Games Optimizer:](https://anagan79.itch.io/quest-games-optimizer) a community-based tool to improve the Quest graphics and gaming experience. <br />
 [🆓⚒️ ReShade:](https://reshade.me/) a generic post-processing injector for games and video software. <br/>
-[⚒️ Simplygon:](https://www.simplygon.com/) perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br/>
-[⚒️ fpsVR:](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br/>
+[⚒️ Simplygon:](https://www.simplygon.com/) perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br />
+[⚒️ fpsVR:](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br />
+[🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/) <br />
 ## Sketching, Prototyping & Design Tools
 [🆓⚒️ Gravity Sketch:](https://www.gravitysketch.com/) an intuitive 3D design platform. <br />
 [⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe) – The XR Wireframe kit, is designed in Gravity Sketch to be used in the process of UX/ UI design for AR, VR and, MR products. <br />
