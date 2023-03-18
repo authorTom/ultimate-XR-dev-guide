@@ -280,7 +280,8 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
 ### Profiling Tools
 [🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
-[🆓⚒️ RenderDoc:](https://renderdoc.org/) <br />
+[🆓⚒️ RenderDoc](https://renderdoc.org/) <br />
+[🆓⚒️ OVR Metrics Tools](https://developer.oculus.com/downloads/package/ovr-metrics-tool/) <br />
 [🆓⚒️ SteamVR Frame Timing](https://developer.valvesoftware.com/wiki/SteamVR/Frame_Timing) <br />
 [🆓⚒️ NVIDIA Visual Profiler](https://developer.nvidia.com/nvidia-visual-profiler) <br />
 [🆓⚒️ NVIDIA VR Capture & Replay - Early Access](https://developer.nvidia.com/vcr-early-access) <br />
