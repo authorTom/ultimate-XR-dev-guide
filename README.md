@@ -119,6 +119,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [Quinn Kuslich](https://www.youtube.com/@QuinnKuslich) <br />
 [Just2Devs](https://www.youtube.com/@Just2Devs) <br />
 [XR Bootcamp](https://www.youtube.com/@XRBootcamp) <br />
+[Circuit Stream](https://www.youtube.com/channel/UCPlpymrUpvb7KbVU3OUDzXw) <br />
 [Lucas VRTech](https://www.youtube.com/@LucasVRTech) <br />
 [GDXR](https://www.youtube.com/@GDXR) <br />
 [VR with Andrew](https://www.youtube.com/@VRwithAndrew) <br />
@@ -318,6 +319,7 @@ Graphics profiler tools help developers optimize graphics performance by providi
 [⚒️ XR Thinking:](https://www.xrthinking.com/) for XR prototyping and mockups. <br />
 [🆓⚒️ Tvori:](https://tvori.co/) or prototyping interfaces, products, and design experiences for XR. <br />
 [⚒️ ShapesXR:](https://www.shapesxr.com/) a VR creation and collaboration platform for remote teams. <br />
+[⚒️ Bezel:](https://www.bezel.it/) a VR creation and collaboration platform for remote teams. <br />
 [🆓⚒️ Nvidia Omniverse Create XR:](https://www.nvidia.com/en-gb/omniverse/) a software platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time. <br />
 ## Interesting Projects
 [🆓⚒️ VRChat:](https://hello.vrchat.com/) a virtual reality social platform that allows users to interact with each other in virtual worlds and environments. It allows users to create and customize their own avatars, explore virtual worlds and participate in activities such as games, conversations, and events. <br />
