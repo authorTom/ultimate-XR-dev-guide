@@ -35,8 +35,8 @@ This resource list was created as a personal reference, I hope you find it as us
   - [XR Development Tools & Frameworks](#xr-development-tools--frameworks)
   - [Performance and Benchmarking](#performance-and-benchmarking)
     - [General VR Performance](#general-vr-performance)
-    - [Unreal Engine Performance Articles](#unreal-engine-performance-articles)
-    - [Meta Quest Performance Articles](#meta-quest-performance-articles)
+    - [Unreal Engine Performance](#unreal-engine-performance)
+    - [Meta Quest Performance](#meta-quest-performance)
     - [Peformance Tools & Plugins](#peformance-tools--plugins)
   - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
   - [Interesting Projects](#interesting-projects)
@@ -263,9 +263,9 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 ## Performance and Benchmarking
 ### General VR Performance
 [📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br/>
-### Unreal Engine Performance Articles
+### Unreal Engine Performance
 [📄 VR profiling Tools in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br/>
-### Meta Quest Performance Articles
+### Meta Quest Performance
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
 [📄 Art Direction for All-in-One VR Performance](https://developer.oculus.com/documentation/unreal/po-art-direction/) <br />
 [📄 Basic Optimization Workflow for Apps](https://developer.oculus.com/documentation/unreal/po-perf-opt-mobile/) <br />
