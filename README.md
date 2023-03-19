@@ -251,20 +251,22 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📺 Oculus Quest Hand Tracking Setup – Unreal Engine VR Tutorial](https://youtu.be/bqNbEtbaN0M) <br />
 [📺 Unreal Engine Hand Animations – Unreal Engine 5 VR Tutorial](https://youtu.be/8wC6Vg3fHcQ) <br />
 ## XR Development Tools & Frameworks
-[🆓⚒️ Babylon.js:](https://www.babylonjs.com/) a JavaScript library for building 3D graphics and animations using WebGL (Web Graphics Library). It was developed by David Catuhe and the Babylon.js team, and is designed to make it easy to create 3D graphics and animations for web applications and games. <br />
-[🆓⚒️ VR Builder:](https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913) a VR creation open-source toolkit for Unity. <br />
-[🆓⚒️ ARKit:](https://developer.apple.com/augmented-reality/arkit/) a development platform that enables app developers to build AR experiences quickly and easily into their apps and games (Apple). <br />
-[🆓⚒️ RealityKit:](https://developer.apple.com/documentation/realitykit) to simulate and render 3D content for use in your augmented reality apps (Apple). <br />
-[🆓⚒️ SceneKit:](https://developer.apple.com/scenekit/) a high-level 3D graphics framework that helps you create 3D animated scenes and effects in your apps (Apple). <br />
-[🆓⚒️ BlenderXR:](https://github.com/MARUI-PlugIn/BlenderXR) a library to use Blender with common VR/AR hardware. It supports Oculus Rift, HTC Vive, WindowsMR (via SteamVR), and Fove headsets. <br />
-[📄 XRAccessibility project:](https://github.com/XRAccessibility/xraccessibility.github.io) a initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms. <br />
-[📄 Inclusive User Testing in VR:](https://devpost.com/software/inclusive-user-testing-in-vr) This Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard. <br />
-[🆓⚒️ A-Frame:](https://aframe.io/) a web framework for building virtual reality experiences. Users can make WebVR with HTML and Entity-Component, which can be viewed on Vive, Rift, Daydream, GearVR, and desktops. <br />
-[🆓⚒️ Unity XR Interaction Toolkit package:](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html) a high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events. <br />
-[⚒️ Advanced Framework Core:](https://dev.humancodeable.org/our-services-2/advanced-framework-core/) a complete framework to develop professional VR, Mobile and Desktop applications such as games, experiences, Architectural Viz or product presentations. <br />
-[🆓⚒️ Oculus Source Distribution for Unreal Engine](https://developer.oculus.com/documentation/unreal/unreal-compatibility-matrix/) <br />
-[🆓⚒️ LÖVR:](https://lovr.org/) an open source framework for rapidly building immersive 3D experiences. <br />
-[🆓⚒️ ApertusVR](http://apertusvr.org/) <br />
+|__Link__|__Description__|
+|:----|:----|
+|[🆓⚒️ Babylon.js](https://www.babylonjs.com/)| A JavaScript library for building 3D graphics and animations using WebGL (Web Graphics Library).|
+|[🆓⚒️ VR Builder](https://assetstore.unity.com/packages/tools/visual-scripting/vr-builder-open-source-toolkit-for-vr-creation-201913)| A VR creation open-source toolkit for Unity.|
+|[🆓⚒️ ARKit](https://developer.apple.com/augmented-reality/arkit/)| A development platform that enables app developers to build AR experiences quickly and easily into their apps and games (Apple).|
+|[🆓⚒️ RealityKit](https://developer.apple.com/documentation/realitykit)| Simulate and render 3D content for use in your augmented reality apps (Apple).|
+|[🆓⚒️ SceneKit](https://developer.apple.com/scenekit/)| A high-level 3D graphics framework that helps you create 3D animated scenes and effects in your apps (Apple).|
+|[🆓⚒️ BlenderXR](https://github.com/MARUI-PlugIn/BlenderXR)| A library to use Blender with common VR/AR hardware. It supports Oculus Rift, HTC Vive, WindowsMR (via SteamVR), and Fove headsets.|
+|[📄 XRAccessibility project](https://github.com/XRAccessibility/xraccessibility.github.io)| A initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms.|
+|[📄 Inclusive User Testing in VR](https://devpost.com/software/inclusive-user-testing-in-vr)| This Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard.|
+|[🆓⚒️ A-Frame](https://aframe.io/)| A web framework for building virtual reality experiences. Users can make WebVR with HTML and Entity-Component, which can be viewed on Vive, Rift, Daydream, GearVR, and desktops.|
+|[🆓⚒️ Unity XR Interaction Toolkit package](https://docs.unity3d.com/Packages/com.unity.xr.interaction.toolkit@2.2/manual/index.html)| A high-level, component-based, interaction system for creating VR and AR experiences. It provides a framework that makes 3D and UI interactions available from Unity input events.|
+|[⚒️ Advanced Framework Core](https://dev.humancodeable.org/our-services-2/advanced-framework-core/)| A complete framework to develop professional VR, Mobile and Desktop applications such as games, experiences, Architectural Viz or product presentations.|
+|[🆓⚒️ Oculus Source Distribution for Unreal Engine](https://developer.oculus.com/documentation/unreal/unreal-compatibility-matrix/)||
+|[🆓⚒️ LÖVR](https://lovr.org/)| An open source framework for rapidly building immersive 3D experiences.|
+|[🆓⚒️ ApertusVR](http://apertusvr.org/)||
 ## Performance and Benchmarking
 ### General VR Performance
 [📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br />
