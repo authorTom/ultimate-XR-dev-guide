@@ -315,18 +315,20 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/)||
 |[🆓⚒️ VRToolkit: Reshade-vrtoolkit](https://vrtoolkit.retrolux.de/)||
 ## Sketching, Prototyping & Design Tools
-[🆓⚒️ Gravity Sketch:](https://www.gravitysketch.com/) an intuitive 3D design platform. <br />
-[⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe) – The XR Wireframe kit, is designed in Gravity Sketch to be used in the process of UX/ UI design for AR, VR and, MR products. <br />
-[⚒️ Adobe Aero:](https://www.adobe.com/uk/products/aero.html) an intuitive way to build, view and share robust immersive storytelling experiences in mobile AR. <br />
-[🆓 ⚒️ 360° Art:](http://www.oniride.com/360art) a free 360° Art Photoshop Plugin which let’s you create VR ready artworks and comics. <br />
-[🆓 ⚒️ Snap AR Lens Studio:](https://ar.snap.com/lens-studio) a powerful application designed for artists and developers to build augmented reality experiences for hundreds of millions of Snapchatters. <br />
-[🆓⚒️ Meta Spark AR Studio](https://sparkar.facebook.com/ar-studio) is Meta’s full suite of technology, tools and educational resources that enable AR content across all Meta technologies. <br />
-[⚒️ Byldr:](https://www.byldr.app/) a no-code platform that maximizes the capability of on-device app development. <br />
-[⚒️ XR Thinking:](https://www.xrthinking.com/) for XR prototyping and mockups. <br />
-[🆓⚒️ Tvori:](https://tvori.co/) or prototyping interfaces, products, and design experiences for XR. <br />
-[⚒️ ShapesXR:](https://www.shapesxr.com/) a VR creation and collaboration platform for remote teams. <br />
-[⚒️ Bezel:](https://www.bezel.it/) a VR creation and collaboration platform for remote teams. <br />
-[🆓⚒️ Nvidia Omniverse Create XR:](https://www.nvidia.com/en-gb/omniverse/) a software platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time. <br />
+|__Link__|__Description__|
+|:----|:----|
+|[🆓⚒️ Gravity Sketch](https://www.gravitysketch.com/)| An intuitive 3D design platform.|
+|[⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe)| The XR Wireframe kit, is to be used in Gravity Sketch for the process of UX/ UI design.|
+|[⚒️ Adobe Aero](https://www.adobe.com/uk/products/aero.html)| An way to build, view and share robust immersive storytelling experiences in mobile AR.|
+|[🆓 ⚒️ 360° Art](http://www.oniride.com/360art)| A free 360° Art Photoshop Plugin which let’s you create VR ready artworks and comics.|
+|[🆓 ⚒️ Snap AR Lens Studio](https://ar.snap.com/lens-studio)| An application designed for artists and developers to build augmented reality experiences for hundreds of millions of Snapchatters.|
+|[🆓⚒️ Meta Spark AR Studio](https://sparkar.facebook.com/ar-studio)| Meta’s full suite of technology, tools and educational resources that enable AR content across all Meta technologies.|
+|[⚒️ Byldr](https://www.byldr.app/)| A no-code platform that maximizes the capability of on-device app development.
+|[⚒️ XR Thinking:](https://www.xrthinking.com/)| XR prototyping and mockups.|
+|[🆓⚒️ Tvori](https://tvori.co/)| Prototyping interfaces, products, and design experiences for XR.|
+|[⚒️ ShapesXR](https://www.shapesxr.com/)| A VR creation and collaboration platform for remote teams.|
+|[⚒️ Bezel](https://www.bezel.it/)| A VR creation and collaboration platform for remote teams.|
+|[🆓⚒️ Nvidia Omniverse Create XR](https://www.nvidia.com/en-gb/omniverse/)| A platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time.
 ## Interesting Projects
 [🆓⚒️ VRChat:](https://hello.vrchat.com/) a virtual reality social platform that allows users to interact with each other in virtual worlds and environments. It allows users to create and customize their own avatars, explore virtual worlds and participate in activities such as games, conversations, and events. <br />
 [🆓⚒️ LucidVR:](https://github.com/LucidVR/lucidgloves) So you want to have yourself a pair of working VR Haptic Gloves? <br />
