@@ -215,10 +215,12 @@ This resource list was created as a personal reference, I hope you find it as us
 [Plain Textures](https://www.plaintextures.com/) <br />
 [Textures.com](https://www.textures.com/) <br />
 ### Audio
-[🆓⚒️ FMOD:](https://www.fmod.com/) a software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media. <br />
-[🆓⚒️ Audacity:](https://www.audacityteam.org/) a free and open-source digital audio editor and recording application. <br />
-[🆓 ZapSplat:](https://www.zapsplat.com/) free sound effects and royalty free music soundtracks. <br />
-[🆓 Purple Planet:](https://www.purple-planet.com/) a collection of music written and performed by Chris Martyn and Geoff Harvey. <br />
+|__Link__|__Description__|
+|:----|:----|
+|[🆓⚒️FMOD](https://www.fmod.com/)|A software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media.|
+|[🆓⚒️Audacity](https://www.audacityteam.org/)|A free and open-source digital audio editor and recording application.|
+|[🆓ZapSplat](https://www.zapsplat.com/)|Free sound effects and royalty free music soundtracks.|
+|[🆓Purple Planet](https://www.purple-planet.com/)|A collection of music written and performed by Chris Martyn and Geoff Harvey.|
 ## Motion Capture, Tracking & Rigging Tools
 [⚒️ Rokoko](https://www.rokoko.com/) <br />
 [Xsens](https://www.movella.com/) <br />
