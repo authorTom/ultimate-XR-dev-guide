@@ -341,6 +341,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[🆓⚒️ Ethereal Engine](https://www.etherealengine.org/)| An end-to-end framework for the web, built on popular Javascript frameworks. Scalable multiplayer infrastructure with voice, video, expressive avatars, a visual editor and portals between worlds. Build your own games and social experiences and link them together.|
 |[🆓⚒️ Half-Life: Alyx Workshop Tools](https://developer.valvesoftware.com/wiki/Half-Life:_Alyx_Workshop_Tools)| A set of software utilities available as a free download for Half-Life: Alyx that allow you to create items for inclusion in the Steam Workshop and your own custom game addons.|
 |[Relativty](https://www.relativty.com/)| An open-source VR headset.|
+|[📄 DIY VR Headset](https://stereopi.com/blog/diy-vr-headset-stereopi-10-ms-latency-just-135)|DIY VR HEADSET FOR THE STEREOPI. 10 MS LATENCY FOR JUST $135|
 |[🆓⚒️ OpenHMD](http://www.openhmd.net/)| A Free and Open-Source API and drivers for immersive technology, such as head mounted displays with built in head tracking.|
 |[⚒️ Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/)| Helps to reduce motion sickness.|
 |[🆓⚒️ Interhaptics by Razor](https://www.interhaptics.com/)| Design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool.|
