@@ -285,7 +285,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
 ### Profiling Tools
-Graphics profiler tools help developers optimize graphics performance by providing detailed information on how an application uses the GPU and CPU to render graphics and identify performance bottlenecks. <br />
+A profiler tool helps developers optimize performance by providing detailed information on how an application uses the GPU and CPU to render graphics and identify performance bottlenecks. <br />
 <br />
 [🆓⚒️ Oculus Debug Tool](https://developer.oculus.com/documentation/native/pc/dg-debug-tool/?locale=en_GB) <br />
 [🆓⚒️ RenderDoc](https://renderdoc.org/) <br />
@@ -303,15 +303,17 @@ Graphics profiler tools help developers optimize graphics performance by providi
 [🆓⚒️ PVRTune](https://developer.imaginationtech.com/pvrtune/) <br />
 [⚒️ Superluminal](https://superluminal.eu/) <br />
 ### Peformance Tools & Plugins
-[🆓⚒️ OpenVR Benchmark:](https://store.steampowered.com/app/955610/OpenVR_Benchmark/) the first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required. <br/>
-[🆓⚒️ VR Performance Toolkit:](https://github.com/fholger/vrperfkit) performance-oriented collection of mods for VR games. <br/>
-[🆓⚒️ OpenXR Explorer:](https://github.com/maluoi/openxr-explorer) an open-source tool that allows developers to explore and test OpenXR runtimes and applications. <br/>
-[🆓⚒️ Quest Games Optimizer:](https://anagan79.itch.io/quest-games-optimizer) a community-based tool to improve the Quest graphics and gaming experience. <br />
-[🆓⚒️ ReShade:](https://reshade.me/) a generic post-processing injector for games and video software. <br/>
-[⚒️ Simplygon:](https://www.simplygon.com/) perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques. <br />
-[⚒️ fpsVR:](https://store.steampowered.com/app/908520/fpsVR/) a utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay. <br />
-[🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/) <br />
-[🆓⚒️ VRToolkit: Reshade-vrtoolkit](https://vrtoolkit.retrolux.de/) <br />
+|__Link__|__Description__|
+|:----|:----|
+|[🆓⚒️ OpenVR Benchmark](https://store.steampowered.com/app/955610/OpenVR_Benchmark/)| The first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required.|
+|[🆓⚒️ VR Performance Toolkit](https://github.com/fholger/vrperfkit)| Performance-oriented collection of mods for VR games.|
+|[🆓⚒️ OpenXR Explorer](https://github.com/maluoi/openxr-explorer)| An open-source tool that allows developers to explore and test OpenXR runtimes and applications.|
+|[🆓⚒️ Quest Games Optimizer](https://anagan79.itch.io/quest-games-optimizer)| A community-based tool to improve the Quest graphics and gaming experience.|
+|[🆓⚒️ ReShade](https://reshade.me/)| A generic post-processing injector for games and video software.|
+|[⚒️ Simplygon](https://www.simplygon.com/)| Perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques.|
+|[⚒️ fpsVR](https://store.steampowered.com/app/908520/fpsVR/)| A utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay.|
+|[🆓⚒️ AMD Radeon GPU Profiler](https://gpuopen.com/rgp/)||
+|[🆓⚒️ VRToolkit: Reshade-vrtoolkit](https://vrtoolkit.retrolux.de/)||
 ## Sketching, Prototyping & Design Tools
 [🆓⚒️ Gravity Sketch:](https://www.gravitysketch.com/) an intuitive 3D design platform. <br />
 [⚒️ XR Wireframe Kit for Gravity Sketch](https://creativitychef.gumroad.com/l/xrwireframe) – The XR Wireframe kit, is designed in Gravity Sketch to be used in the process of UX/ UI design for AR, VR and, MR products. <br />
