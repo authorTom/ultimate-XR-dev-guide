@@ -162,10 +162,12 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ Open 3D Engine](https://www.o3de.org/) <br />
 [🆓⚒️ ApterusVR](http://apertusvr.org/) <br />
 ### Unreal Engine First Steps
-[📄 Unreal Engine Guide by META](https://developer.oculus.com/documentation/unreal/unreal-engine/) <br />
-* [Creating Your First Meta Quest VR App in Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/) <br />
-* [Oculus Integration for Unreal Engine Basics (META)](https://developer.oculus.com/documentation/unreal/unreal-engine-basics/) <br />
-* [Configure the Oculus Plugin for Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-plugin-settings/) <br />
+[📄 Unreal Engine Guide (META)](https://developer.oculus.com/documentation/unreal/unreal-engine/) <br />
+[📄 Creating Your First Meta Quest VR App in Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/) <br />
+[📄 Oculus Integration for Unreal Engine Basics (META)](https://developer.oculus.com/documentation/unreal/unreal-engine-basics/) <br />
+[📄 Configure the Oculus Plugin for Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-plugin-settings/) <br />
+[📄 Developing for Oculus in Unreal Engine (Epic Games)](https://docs.unrealengine.com/5.0/en-US/developing-for-oculus-in-unreal-engine/) <br />
+[📄 VR Template in Unreal Engine (Epic Games)](https://docs.unrealengine.com/5.0/en-US/vr-template-in-unreal-engine/) <br />
 ### Unreal Engine Plugins
 [🆓⚒️ VR Expansion Plugin](https://vreue4.com/) <br />
 ## Assets
