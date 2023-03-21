@@ -163,9 +163,9 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ ApterusVR](http://apertusvr.org/) <br />
 ### Unreal Engine First Steps
 [📄 Unreal Engine Guide by META](https://developer.oculus.com/documentation/unreal/unreal-engine/) <br />
-[📄 Creating Your First Meta Quest VR App in Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/) <br />
-[📄 Oculus Integration for Unreal Engine Basics (META)](https://developer.oculus.com/documentation/unreal/unreal-engine-basics/) <br />
-[📄 Configure the Oculus Plugin for Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-plugin-settings/) <br />
+* [Creating Your First Meta Quest VR App in Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/) <br />
+* [Oculus Integration for Unreal Engine Basics (META)](https://developer.oculus.com/documentation/unreal/unreal-engine-basics/) <br />
+* [Configure the Oculus Plugin for Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-plugin-settings/) <br />
 ### Unreal Engine Plugins
 [🆓⚒️ VR Expansion Plugin](https://vreue4.com/) <br />
 ## Assets
