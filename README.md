@@ -19,7 +19,7 @@ This resource list was created as a personal reference, I hope you find it as us
     - [Blender](#blender)
     - [Related](#related)
   - [Game Engines](#game-engines)
-    - [Unreal Engine First Steps](### Unreal Engine First Steps)
+    - [Unreal Engine First Steps](#unreal-engine-first-steps)
     - [Unreal Engine Plugins](#unreal-engine-plugins)
   - [Assets](#assets)
     - [Premade Models](#premade-models)
