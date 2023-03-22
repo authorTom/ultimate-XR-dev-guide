@@ -2,7 +2,7 @@
  
 This resource list was created as a personal reference, I hope you find it as useful as I have. Please note that there may be some overlap with general game development resources, and there is a slight bias towards Unreal Engine and Meta Quest headsets. <br />
 
-## Contents
+## Table of Contents
   - [Headsets (Head Mounted Displays)](#headsets-head-mounted-displays)
   - [XR Guides, Tutorials and Articles](#xr-guides-tutorials-and-articles)
     - [General](#general)
@@ -19,7 +19,7 @@ This resource list was created as a personal reference, I hope you find it as us
     - [Blender](#blender)
     - [Related](#related)
   - [Game Engines](#game-engines)
-    - [Unreal Engine First Steps](#unreal-engine-first-steps)
+    - [Getting Started with Unreal Engine](#getting-started-with-unreal-engine)
     - [Unreal Engine Plugins](#unreal-engine-plugins)
   - [Assets](#assets)
     - [Premade Models](#premade-models)
@@ -161,7 +161,7 @@ This resource list was created as a personal reference, I hope you find it as us
 [🆓⚒️ AppGameKit VR](https://www.appgamekit.com/dlc/vr) <br />
 [🆓⚒️ Open 3D Engine](https://www.o3de.org/) <br />
 [🆓⚒️ ApterusVR](http://apertusvr.org/) <br />
-### Unreal Engine First Steps
+### Getting Started with Unreal Engine
 [📄 Unreal Engine Guide (META)](https://developer.oculus.com/documentation/unreal/unreal-engine/) <br />
 [📄 Creating Your First Meta Quest VR App in Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-quick-start-guide-quest/) <br />
 [📄 Oculus Integration for Unreal Engine Basics (META)](https://developer.oculus.com/documentation/unreal/unreal-engine-basics/) <br />
