@@ -356,7 +356,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[⚒️ Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/)| Helps to reduce motion sickness.|
 |[🆓⚒️ Interhaptics by Razor](https://www.interhaptics.com/)| Design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool.|
 ## How to Contribute
-* Clone repo and create a new branch:
+* Clone repository and create a new branch:
 ```
 $ git checkout https://github.com/authorTom/ultimate-XR-dev-guide -b name_for_new_branch
 ```
