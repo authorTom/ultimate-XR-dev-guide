@@ -44,6 +44,7 @@ This resource list was created as a personal reference, I hope you find it as us
   - [Interesting Projects](#interesting-projects)
   - [How to Contribute](#how-to-contribute)
   - [Issues](#issues)
+  - [My Other Projects](#my-other-projects)
   
 ## Headsets (Head Mounted Displays)
 [📄 Choosing a VR headset](https://www.reddit.com/r/virtualreality/wiki/faq/choosing2/) (wiki from r/virtualreality) <br />
