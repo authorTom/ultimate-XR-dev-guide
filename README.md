@@ -42,6 +42,8 @@ This resource list was created as a personal reference, I hope you find it as us
     - [Peformance Tools & Plugins](#peformance-tools--plugins)
   - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
   - [Interesting Projects](#interesting-projects)
+  - [How to Contribute](#how-to-contribute)
+  - [Issues](#issues)
   
 ## Headsets (Head Mounted Displays)
 [📄 Choosing a VR headset](https://www.reddit.com/r/virtualreality/wiki/faq/choosing2/) (wiki from r/virtualreality) <br />
@@ -353,7 +355,15 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[🆓⚒️ OpenHMD](http://www.openhmd.net/)| A Free and Open-Source API and drivers for immersive technology, such as head mounted displays with built in head tracking.|
 |[⚒️ Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/)| Helps to reduce motion sickness.|
 |[🆓⚒️ Interhaptics by Razor](https://www.interhaptics.com/)| Design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool.|
+## How to Contribute
+* Clone repo and create a new branch:
+```
+$ git checkout https://github.com/authorTom/ultimate-XR-dev-guide -b name_for_new_branch
+```
+* Make changes and test <br />
+* Submit Pull Request with description of contribution <br />
 ## Issues
 This project is actively maintained, please raise an issue if you feel the need to. <br />
 <br />
-**Like what has been done? please give the repository a star ⭐** <br /> 
+**Like what has been done? please give the repository a star ⭐** <br />
+## My Other Projects
