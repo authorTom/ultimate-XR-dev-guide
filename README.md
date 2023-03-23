@@ -173,7 +173,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [🆓⚒️ Mixamo](https://www.mixamo.com/) <br />
 [🆓⚒️ Wings 3D](http://www.wings3d.com/) <br />
 [🆓⚒️ FreeCAD](https://www.freecad.org/) <br />
-[🆓 ⚒️ Adobe Medium](https://www.adobe.com/products/medium.html) <br />
+[🆓⚒️ Adobe Medium](https://www.adobe.com/products/medium.html) <br />
 [⚒️ 3DCoat](https://3dcoat.com/) <br />
 [⚒️ Cinema 4D](https://www.maxon.net/en/cinema-4d) <br />
 [⚒️ Adobe Substance 3D Modeler](https://www.adobe.com/products/substance3d-modeler.html) <br />
@@ -181,10 +181,21 @@ I created this resource list for my personal use. I hope you find it useful too.
 [⚒️ Marvelous Designer](https://www.marvelousdesigner.com/) <br />
 [⚒️ 3D Character Maker](https://www.reallusion.com/character-creator/) <br />
 ### Photogrammetry
+Photogrammetry is a technique that uses photographs to construct 3D models of objects, buildings, or landscapes. The process involves taking multiple photos of the subject from various angles and then analysing them with specialised software to generate a 3D model. <br />
+<br />
+[⚒️ Adobe Substance 3D Sampler](https://www.adobe.com/uk/products/substance3d-sampler.html) <br />
+[📺 Basic 3D Capture - Capturing an outdoor scene in Substance 3D Sampler](https://youtu.be/1RhFjN9EdB8) <br />
+[📺 Advanced 3D Capture with Substance 3D Sampler (Playlist)](https://youtube.com/playlist?list=PLB0wXHrWAmCxgJDvBwjzF7dlxE8c7ffRt) <br />
+<br />
+[🆓⚒️ RealityCapture](https://www.capturingreality.com/) <br />
+[🆓⚒️ RealityScan](https://apps.apple.com/us/app/realityscan/id1584832280) <br />
+[🆓⚒️ Polycam](https://poly.cam/) <br />
+[📺 The Ultimate Guide to 3D Scanning | FULL WORKFLOW](https://youtu.be/U67RJG6DJ_8) <br />
 [📄 Getting started with Photogrammetry — with a Smartphone camera (2019)](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72) <br />
 [📄 A Guide to Photogrammetry Photography (2020)](https://journalists.org/resources/a-guide-to-photogrammetry-photography/) <br />
-[🆓 ⚒️ Polycam](https://poly.cam/) <br />
-[🆓 ⚒️ RealityScan](https://apps.apple.com/us/app/realityscan/id1584832280) <br />
+
+
+
 ### NeRF: Neural Radiance Fields
 [📄 NeRF: Neural Radiance Fields (matthewtancik.com)](https://www.matthewtancik.com/nerf) <br />
 [🆓⚒️ GitHub – bmild/nerf: Code release for NeRF (Neural Radiance Fields)](https://github.com/bmild/nerf) <br />
