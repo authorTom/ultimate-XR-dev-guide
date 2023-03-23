@@ -1,6 +1,6 @@
 # The Ultimate XR Developers Resource Guide 
- 
-This resource list was created as a personal reference, I hope you find it as useful as I have. Please note that there may be some overlap with general game development resources, and there is a slight bias towards Unreal Engine and Meta Quest headsets. <br />
+
+I created this resource list for my personal use. I hope you find it useful too. Much of the content overlaps with general game development, and there is an emphasis on Unreal Engine and Meta Quest headsets. <br />
 
 # Table of Contents
 
