@@ -211,17 +211,27 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [Plain Textures](https://www.plaintextures.com/) <br />
 [Textures.com](https://www.textures.com/) <br />
 ### Audio
+[📺 Oculus Connect: Introduction to Audio in VR](https://youtu.be/kBBuuvEP5Z4) <br />
+[📺 BEST 3D Spatial Audio Workflow 2022 for Meta Quest 2 and YouTube VR](https://youtu.be/3Pygrx8BSKs) <br />
+<br />
+[📄 Sound Design for VR (Meta)](https://developer.oculus.com/resources/audio-intro-sounddesign/) <br />
 |__Link__|__Description__|
 |:----|:----|
-|[🆓⚒️FMOD](https://www.fmod.com/)|A software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media.|
-|[🆓⚒️Audacity](https://www.audacityteam.org/)|A free and open-source digital audio editor and recording application.|
-|[🆓ZapSplat](https://www.zapsplat.com/)|Free sound effects and royalty free music soundtracks.|
-|[🆓Purple Planet](https://www.purple-planet.com/)|A collection of music written and performed by Chris Martyn and Geoff Harvey.|
+|[🆓⚒️ Facebook 360 Spatial Workstation](https://drive.google.com/drive/folders/1owrUXI64Rk41i-ymwuSOd5Q9XWvh7-46)|The Facebook 360 Spatial Workstation is a suite of tools designed to create immersive audio and video experiences for virtual reality (VR) and 360-degree video. This workstation is now unsupported by Meta/Facebook but is still widley used. Thank you [Hugh Hou](https://www.youtube.com/@hughhou) for keeping these files available for download.|
+|[🆓⚒️ Resonance Audio](https://resonance-audio.github.io/resonance-audio/)|With Resonance Audio, bring dynamic spatial sound into your VR, AR, gaming, or video experiences at scale.|
+|[🆓⚒️ Valve: Steam Audio](https://valvesoftware.github.io/steam-audio/)|Steam Audio delivers a full-featured audio solution that integrates environment and listener simulation. HRTF significantly improves immersion in VR; physics-based sound propagation completes aural immersion by consistently recreating how sound interacts with the virtual environment.|
+|[🆓⚒️ Microsoft: Spatial Audio for Unity](https://github.com/microsoft/spatialaudio-unity)|This repository provides plugins and tools for integrating spatial audio into your Unity 3D applications and games.|
+|[⚒️ Adobe Audition](https://www.adobe.com/uk/products/audition.html)|Adobe's professional audio workstation.|
+|[🆓⚒️REAPER](https://www.reaper.fm/)|A digital audio workstation.|
+|[🆓⚒️ FMOD](https://www.fmod.com/)|A software audio engine that allows developers to easily implement audio playback and effects in their games, applications, and other interactive media.|
+|[🆓⚒️ Audacity](https://www.audacityteam.org/)|A free and open-source digital audio editor and recording application.|
+|[🆓 ZapSplat](https://www.zapsplat.com/)|Free sound effects and royalty free music soundtracks.|
+|[🆓 Purple Planet](https://www.purple-planet.com/)|A collection of music written and performed by Chris Martyn and Geoff Harvey.|
 ## Motion Capture, Tracking & Rigging Tools
 [⚒️ Rokoko](https://www.rokoko.com/) <br />
 [Xsens](https://www.movella.com/) <br />
 [⚒️ RADiCAL](https://radicalmotion.com/) <br />
-[🆓 ⚒️ Amethyst](https://k2vr.tech/) <br />
+[🆓⚒️ Amethyst](https://k2vr.tech/) <br />
 [🆓⚒️ Live Link Face for Unreal Engine (iOS)](https://apps.apple.com/us/app/live-link-face/id1495370836) <br />
 [🆓⚒️ accuRIG](https://actorcore.reallusion.com/auto-rig) <br />
 [SlimeVR](https://www.crowdsupply.com/slimevr/slimevr-full-body-tracker) <br />
