@@ -193,9 +193,6 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [📺 The Ultimate Guide to 3D Scanning | FULL WORKFLOW](https://youtu.be/U67RJG6DJ_8) <br />
 [📄 Getting started with Photogrammetry — with a Smartphone camera (2019)](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72) <br />
 [📄 A Guide to Photogrammetry Photography (2020)](https://journalists.org/resources/a-guide-to-photogrammetry-photography/) <br />
-
-
-
 ### NeRF: Neural Radiance Fields
 [📄 NeRF: Neural Radiance Fields (matthewtancik.com)](https://www.matthewtancik.com/nerf) <br />
 [🆓⚒️ GitHub – bmild/nerf: Code release for NeRF (Neural Radiance Fields)](https://github.com/bmild/nerf) <br />
@@ -204,6 +201,8 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 ### Textures
 [⚒️ Adobe Substance 3D Painter](https://www.adobe.com/uk/products/substance3d-painter.html) <br />
 [⚒️ Adobe Substance 3D Sampler](https://www.adobe.com/uk/products/substance3d-sampler.html) <br />
+[🆓⚒️ Materialize: An image to material tool](https://boundingboxsoftware.com/materialize/) <br />
+<br />
 [🆓 MatCap](https://github.com/nidorx/matcaps) <br />
 [🆓 ArtStation: Miloš Belanec](https://www.artstation.com/deepmind/albums/89651) <br />
 [🆓 Poliigon: Free Textures](https://www.poliigon.com/search?credit=0) <br />
@@ -213,8 +212,8 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 ### Audio
 [📺 Oculus Connect: Introduction to Audio in VR](https://youtu.be/kBBuuvEP5Z4) <br />
 [📺 BEST 3D Spatial Audio Workflow 2022 for Meta Quest 2 and YouTube VR](https://youtu.be/3Pygrx8BSKs) <br />
-<br />
 [📄 Sound Design for VR (Meta)](https://developer.oculus.com/resources/audio-intro-sounddesign/) <br />
+<br />
 |__Link__|__Description__|
 |:----|:----|
 |[🆓⚒️ Facebook 360 Spatial Workstation](https://drive.google.com/drive/folders/1owrUXI64Rk41i-ymwuSOd5Q9XWvh7-46)|The Facebook 360 Spatial Workstation is a suite of tools designed to create immersive audio and video experiences for virtual reality (VR) and 360-degree video. This workstation is now unsupported by Meta/Facebook but is still widley used. Thank you [Hugh Hou](https://www.youtube.com/@hughhou) for keeping these files available for download.|
