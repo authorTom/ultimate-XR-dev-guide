@@ -292,6 +292,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Unreal Engine 5: VR profiling Tools](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br />
 ### Meta Quest Performance
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
+[📄 Down The Rabbit Hole w/ Oculus Quest: Developer Best Practices + The Store](https://developer.oculus.com/blog/down-the-rabbit-hole-w-oculus-quest-developer-best-practices-the-store/) <br />
 [📄 Art Direction for All-in-One VR Performance](https://developer.oculus.com/documentation/unreal/po-art-direction/) <br />
 [📄 Basic Optimization Workflow for Apps](https://developer.oculus.com/documentation/unreal/po-perf-opt-mobile/) <br />
 [📄 Open World Games and Asset Streaming with Unity](https://developer.oculus.com/documentation/unity/po-assetstreaming/) <br />
@@ -299,6 +300,15 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Performance Analyzer and Metrics (Perfetto-trace)](https://developer.oculus.com/documentation/native/android/ts-odh-logs-metrics/#run-perfetto-trace) <br />
 [📄 Getting a Handle on Meta Quest Memory Usage](https://developer.oculus.com/blog/getting-a-handle-on-meta-quest-memory-usage/) <br />
 [📄 Showdown on Quest Part 1: How App SpaceWarp Improves Performance](https://developer.oculus.com/blog/showdown-on-quest-part-1-how-app-spacewarp-improves-performance-/) <br />
+### RenderDoc with Oculus + Unity
+[📄 Use RenderDoc Meta Fork for GPU Profiling](https://developer.oculus.com/documentation/unity/ts-renderdoc-for-oculus/) <br />
+[📄 Using RenderDoc Meta Fork to Optimize Your App - Part 1](https://developer.oculus.com/documentation/unity/po-renderdoc-optimizations-1/) <br />
+[📄 Using RenderDoc Meta Fork to Optimize Your App - Part 2](https://developer.oculus.com/documentation/unity/po-renderdoc-optimizations-2/) <br />
+[📄 Taking and Loading a Capture](https://developer.oculus.com/documentation/unity/ts-renderdoc-capture/) <br />
+[📄 Performing a Render Stage Trace](https://developer.oculus.com/documentation/unity/ts-renderdoc-renderstage/) <br />
+[📄 Performing a Draw Call Trace](https://developer.oculus.com/documentation/unity/ts-renderdoc-drawcall/) <br />
+[📄 Accessing Vulkan Shader Stats](https://developer.oculus.com/documentation/unity/ts-renderdoc-shaderstats/) <br />
+[📄 Recommended Settings](https://developer.oculus.com/documentation/unity/ts-renderdoc-settings) <br />
 ### Profiling Tools
 A profiler tool helps developers optimize performance by providing detailed information on how an application uses the GPU and CPU to render graphics and identify performance bottlenecks. <br />
 <br />
