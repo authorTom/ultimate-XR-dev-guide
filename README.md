@@ -209,6 +209,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [🆓 ArtStation: Miloš Belanec](https://www.artstation.com/deepmind/albums/89651) <br />
 [🆓 Poliigon: Free Textures](https://www.poliigon.com/search?credit=0) <br />
 [🆓 30 free PBR materials](https://lebediev.gumroad.com/l/ekRhc) <br />
+[Game Textures](https://gametextures.com/) <br />
 [Plain Textures](https://www.plaintextures.com/) <br />
 [Textures.com](https://www.textures.com/) <br />
 ### Audio
@@ -281,6 +282,9 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 ## Performance and Benchmarking
 ### General VR Performance
 [📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br />
+[📺 SUPERHOT VR on Quest: From 100W to 4W in 12 Months](https://youtu.be/hr35o5R7EMA) <br />
+[📺 Oculus Connect 5 | Reinforcing Mobile Performance with RenderDoc](https://youtu.be/CQxkE_56xMU) <br />
+[]() <br />
 ### Unreal Engine Performance
 [📄 Unreal Engine Performance Guide (GPUOpen)](https://gpuopen.com/unreal-engine-performance-guide/) <br />
 [📄 Unreal Engine 5: Testing and optimizing Your Content](https://docs.unrealengine.com/5.1/en-US/testing-and-optimizing-your-content/) <br />
