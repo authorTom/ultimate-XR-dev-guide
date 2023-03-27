@@ -192,7 +192,13 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [🆓⚒️ RealityCapture](https://www.capturingreality.com/) <br />
 [🆓⚒️ RealityScan](https://apps.apple.com/us/app/realityscan/id1584832280) <br />
 [🆓⚒️ Polycam](https://poly.cam/) <br />
+<br />
 [📺 The Ultimate Guide to 3D Scanning | FULL WORKFLOW](https://youtu.be/U67RJG6DJ_8) <br />
+[📺 William Faucher: RealityCapture to UE5 - Workflow Tutorial](https://youtu.be/WrCOhes1Zgg) <br />
+[📺 William Faucher: How to 3D Scan All Sides of Objects - RealityCapture](https://youtu.be/3mLBL7T-zgs) <br />
+[📺 William Faucher: The Key to Cleaner 3D Scans: Cross-Polarization](https://www.youtube.com/watch?v=GJ2gtQ0WxTU&t=779s) <br />
+[📺 William Faucher: FREE Ways to Improve your 3D Scans!](https://youtu.be/p3VG4Z6LhB0) <br />
+<br />
 [📄 Getting started with Photogrammetry — with a Smartphone camera (2019)](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72) <br />
 [📄 A Guide to Photogrammetry Photography (2020)](https://journalists.org/resources/a-guide-to-photogrammetry-photography/) <br />
 ### NeRF: Neural Radiance Fields
