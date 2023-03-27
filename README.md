@@ -290,6 +290,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Unreal Engine 5: Testing and optimizing Your Content](https://docs.unrealengine.com/5.1/en-US/testing-and-optimizing-your-content/) <br />
 [📄 Unreal Engine 5: XR Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/xr-performance-and-profiling-in-unreal-engine/) <br />
 [📄 Unreal Engine 5: VR profiling Tools](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br />
+[📄 Advanced Rendering (Oculus Quest)](https://developer.oculus.com/documentation/unreal/unreal-advanced-rendering/) <br />
 ### Meta Quest Performance
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
 [📄 Down The Rabbit Hole w/ Oculus Quest: Developer Best Practices + The Store](https://developer.oculus.com/blog/down-the-rabbit-hole-w-oculus-quest-developer-best-practices-the-store/) <br />
