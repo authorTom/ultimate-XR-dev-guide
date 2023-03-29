@@ -10,6 +10,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 - [XR YouTube Channels](#xr-youtube-channels)
 - [Game Engines](#game-engines)
 - [Assets](#assets)
+- [Shaders & 3D Graphics](#shaders--3d-graphics)
 - [Motion Capture, Tracking & Rigging Tools](#motion-capture-tracking--rigging-tools)
 - [Hand Tracking](#hand-tracking)
 - [XR Development Tools & Frameworks](#xr-development-tools--frameworks)
@@ -235,6 +236,13 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 |[🆓⚒️ Audacity](https://www.audacityteam.org/)|A free and open-source digital audio editor and recording application.|
 |[🆓 ZapSplat](https://www.zapsplat.com/)|Free sound effects and royalty free music soundtracks.|
 |[🆓 Purple Planet](https://www.purple-planet.com/)|A collection of music written and performed by Chris Martyn and Geoff Harvey.|
+## Shaders & 3D Graphics
+[📺 Freya Holmér: Shaders For Game Devs - YouTube Playlist](https://youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z) <br />
+[🆓⚒️ Shadertoy](https://www.shadertoy.com/) <br />
+[📄 NVIDIA GPU Gems 1](https://developer.nvidia.com/gpugems/gpugems/) <br />
+[📄 NVIDIA GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/) <br />
+[📄 NVIDIA GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/) <br />
+[📕 The Book of Shaders](https://thebookofshaders.com/) <br />
 ## Motion Capture, Tracking & Rigging Tools
 [⚒️ Rokoko](https://www.rokoko.com/) <br />
 [Xsens](https://www.movella.com/) <br />
