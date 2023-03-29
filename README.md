@@ -47,6 +47,9 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📺 VR Interface Design Manifesto](https://vimeo.com/116101132) <br />
 [📺 Locomotion in Virtual Reality](https://www.youtube.com/watch?v=J8o71UycDa0) <br />
 [📺 Locomotion in VR: Overview of different locomotion methods on HTC Vive](https://youtu.be/p0YxzgQG2-E) <br />
+[Did You Hear That? Designing Jeff with Sound and Silence 'Half-Life: Alyx' | SIGGRAPH Tech Talk](https://youtu.be/6mRrdf_lBjM) <br />
+[]() <br />
+
 ### John Carmack
 [📺 John Carmack Tech Talk with UMKC-SCE](https://youtu.be/lHLpKzUxjGk) <br />
 [📺 Deep Thoughts Engineering Speaker Series](https://youtu.be/dSCBCk4xVa0) <br />
@@ -193,6 +196,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [🆓⚒️ RealityCapture](https://www.capturingreality.com/) <br />
 [🆓⚒️ RealityScan](https://apps.apple.com/us/app/realityscan/id1584832280) <br />
 [🆓⚒️ Polycam](https://poly.cam/) <br />
+[⚒️ 3DF ZEPHYR](https://www.3dflow.net/) <br/>
 <br />
 [📺 The Ultimate Guide to 3D Scanning | FULL WORKFLOW](https://youtu.be/U67RJG6DJ_8) <br />
 [📺 William Faucher: RealityCapture to UE5 - Workflow Tutorial](https://youtu.be/WrCOhes1Zgg) <br />
@@ -305,6 +309,8 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Unreal Engine 5: XR Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/xr-performance-and-profiling-in-unreal-engine/) <br />
 [📄 Unreal Engine 5: VR profiling Tools](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br />
 [📄 Advanced Rendering (Oculus Quest)](https://developer.oculus.com/documentation/unreal/unreal-advanced-rendering/) <br />
+[📄 Unreal Art Optimization](https://unrealartoptimization.github.io/book/) <br />
+[📺 Unreal Engine Game Optimization on a Budget, by Tom Looman](https://youtu.be/G51QWcitCII) <br />
 ### Meta Quest Performance
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
 [📄 Down The Rabbit Hole w/ Oculus Quest: Developer Best Practices + The Store](https://developer.oculus.com/blog/down-the-rabbit-hole-w-oculus-quest-developer-best-practices-the-store/) <br />
