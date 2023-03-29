@@ -243,10 +243,12 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 ## Shaders & 3D Graphics
 [📺 Freya Holmér: Shaders For Game Devs - YouTube Playlist](https://youtube.com/playlist?list=PLImQaTpSAdsCnJon-Eir92SZMl7tPBS4Z) <br />
 [🆓⚒️ Shadertoy](https://www.shadertoy.com/) <br />
+[📄 A Beginner's Guide to Coding Graphics Shaders](https://gamedevelopment.tutsplus.com/tutorials/a-beginners-guide-to-coding-graphics-shaders--cms-23313) <br />
 [📄 NVIDIA GPU Gems 1](https://developer.nvidia.com/gpugems/gpugems/) <br />
 [📄 NVIDIA GPU Gems 2](https://developer.nvidia.com/gpugems/gpugems2/) <br />
 [📄 NVIDIA GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/) <br />
 [📕 The Book of Shaders](https://thebookofshaders.com/) <br />
+[📕 Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) <br />
 ## Motion Capture, Tracking & Rigging Tools
 [⚒️ Rokoko](https://www.rokoko.com/) <br />
 [Xsens](https://www.movella.com/) <br />
