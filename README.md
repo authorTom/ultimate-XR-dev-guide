@@ -47,9 +47,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📺 VR Interface Design Manifesto](https://vimeo.com/116101132) <br />
 [📺 Locomotion in Virtual Reality](https://www.youtube.com/watch?v=J8o71UycDa0) <br />
 [📺 Locomotion in VR: Overview of different locomotion methods on HTC Vive](https://youtu.be/p0YxzgQG2-E) <br />
-[Did You Hear That? Designing Jeff with Sound and Silence 'Half-Life: Alyx' | SIGGRAPH Tech Talk](https://youtu.be/6mRrdf_lBjM) <br />
-[]() <br />
-
+[📺 Did You Hear That? Designing Jeff with Sound and Silence 'Half-Life: Alyx' | SIGGRAPH Tech Talk](https://youtu.be/6mRrdf_lBjM) <br />
 ### John Carmack
 [📺 John Carmack Tech Talk with UMKC-SCE](https://youtu.be/lHLpKzUxjGk) <br />
 [📺 Deep Thoughts Engineering Speaker Series](https://youtu.be/dSCBCk4xVa0) <br />
