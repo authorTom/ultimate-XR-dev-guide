@@ -359,6 +359,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[⚒️ Simplygon](https://www.simplygon.com/)| Perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques.|
 |[⚒️ fpsVR](https://store.steampowered.com/app/908520/fpsVR/)| A utility for SteamVR for keeping track of FPS, frame time and other performance metrics in the in-game overlay.|
 |[🆓⚒️ VRToolkit: Reshade-vrtoolkit](https://vrtoolkit.retrolux.de/)| Modular shader to enhance you HMD clarity & sharpness with minimal performance impact.|
+|[🆓⚒️ Cognitive3D](https://cognitive3d.com/)| Captures Spatial Data to observe player behaviour in AR, VR, or XR. Plug-in for Unreal and Unity.|
 ## Sketching, Prototyping & Design Tools
 |__Link__|__Description__|
 |:----|:----|
