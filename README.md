@@ -311,6 +311,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Advanced Rendering (Oculus Quest)](https://developer.oculus.com/documentation/unreal/unreal-advanced-rendering/) <br />
 [📄 Unreal Art Optimization](https://unrealartoptimization.github.io/book/) <br />
 [📺 Unreal Engine Game Optimization on a Budget, by Tom Looman](https://youtu.be/G51QWcitCII) <br />
+[📺 Maximizing Your Game's Performance in Unreal Engine | Unreal Fest 2022](https://youtu.be/GuIav71867E) <br />
 ### Meta Quest Performance
 [📄 Performance and Optimization](https://developer.oculus.com/documentation/native/android/po-book-performance/) <br />
 [📄 Down The Rabbit Hole w/ Oculus Quest: Developer Best Practices + The Store](https://developer.oculus.com/blog/down-the-rabbit-hole-w-oculus-quest-developer-best-practices-the-store/) <br />
