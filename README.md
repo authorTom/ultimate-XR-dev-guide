@@ -195,6 +195,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [🆓⚒️ RealityScan](https://apps.apple.com/us/app/realityscan/id1584832280) <br />
 [🆓⚒️ Polycam](https://poly.cam/) <br />
 [⚒️ 3DF ZEPHYR](https://www.3dflow.net/) <br/>
+[⚒️ Qlone 3D Scanner](https://apps.apple.com/gb/app/qlone-3d-scanner/id1229460906) <br />
 <br />
 [📺 The Ultimate Guide to 3D Scanning | FULL WORKFLOW](https://youtu.be/U67RJG6DJ_8) <br />
 [📺 William Faucher: RealityCapture to UE5 - Workflow Tutorial](https://youtu.be/WrCOhes1Zgg) <br />
@@ -284,6 +285,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 |[🆓⚒️ ARKit](https://developer.apple.com/augmented-reality/arkit/)| A development platform that enables app developers to build AR experiences quickly and easily into their apps and games (Apple).|
 |[🆓⚒️ RealityKit](https://developer.apple.com/documentation/realitykit)| Simulate and render 3D content for use in your augmented reality apps (Apple).|
 |[🆓⚒️ SceneKit](https://developer.apple.com/scenekit/)| A high-level 3D graphics framework that helps you create 3D animated scenes and effects in your apps (Apple).|
+|[🆓⚒️ PLAYCANVAS](https://playcanvas.com/)|PlayCanvas is a WebXR creation platform. It exposes the full power of the WebXR spec making it easy to create high performance, browser-based virtual reality applications.|
 |[🆓⚒️ BlenderXR](https://github.com/MARUI-PlugIn/BlenderXR)| A library to use Blender with common VR/AR hardware. It supports Oculus Rift, HTC Vive, WindowsMR (via SteamVR), and Fove headsets.|
 |[📄 XRAccessibility project](https://github.com/XRAccessibility/xraccessibility.github.io)| A initiative driven by the XR Association and XR Access to provide a central place for developers to find solutions for creating accessible code across various XR platforms.|
 |[📄 Inclusive User Testing in VR](https://devpost.com/software/inclusive-user-testing-in-vr)| This Unity plugin allows users to directly give feedback in VR and allows user researchers to view this feedback asynchronously using a web-based dashboard.|
@@ -296,6 +298,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 |[⚒️ Advanced Framework Core](https://dev.humancodeable.org/our-services-2/advanced-framework-core/)| A complete framework to develop professional VR, Mobile and Desktop applications such as games, experiences, Architectural Viz or product presentations.|
 |[🆓⚒️ Oculus Source Distribution for Unreal Engine](https://developer.oculus.com/documentation/unreal/unreal-compatibility-matrix/)||
 |[🆓⚒️ LÖVR](https://lovr.org/)| An open source framework for rapidly building immersive 3D experiences.|
+|[🆓⚒️ Oculus Haptics Studio](https://developer.oculus.com/experimental/exp-haptics-studio/)|Meta Haptics Studio is a desktop application and companion VR application. It allows you to design and audition haptic clips, which can be exported and played in your app via the Meta Haptics SDK for Unity.|
 |[🆓⚒️ ApertusVR](http://apertusvr.org/)||
 ## Performance and Benchmarking
 ### General VR Performance
