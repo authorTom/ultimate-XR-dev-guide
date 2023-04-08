@@ -219,6 +219,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [🆓 ArtStation: Miloš Belanec](https://www.artstation.com/deepmind/albums/89651) <br />
 [🆓 Poliigon: Free Textures](https://www.poliigon.com/search?credit=0) <br />
 [🆓 30 free PBR materials](https://lebediev.gumroad.com/l/ekRhc) <br />
+[🆓 Poly](https://withpoly.com/) <br />
 [Game Textures](https://gametextures.com/) <br />
 [Plain Textures](https://www.plaintextures.com/) <br />
 [Textures.com](https://www.textures.com/) <br />
@@ -382,6 +383,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 ## Interesting Projects
 |__Link__|__Description__|
 |:----|:----|
+|[🆓⚒️ Environmake](https://albertbozesan.com/environmake/)| Environmake is a Blender addon that makes simple 3D environments in seconds using the power of AI.|
 |[🆓⚒️ VRChat](https://hello.vrchat.com/)| A virtual reality social platform that allows users to interact with each other in virtual worlds and environments. It allows users to create and customize their own avatars, explore virtual worlds and participate in activities such as games, conversations, and events.|
 |[🆓⚒️ LucidVR](https://github.com/LucidVR/lucidgloves)| So you want to have yourself a pair of working VR Haptic Gloves?|
 |[🆓⚒️ OpenGloves](https://store.steampowered.com/app/1574050/OpenGloves/)| An open source, OpenVR Driver that allows for use of DIY Virtual Reality Hardware in SteamVR games.|
