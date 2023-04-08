@@ -29,13 +29,13 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Practical VR: A Design Cheat Sheet](https://virtualrealitypop.com/practical-vr-ce80427e8e9d) <br />
 [📄 Sense of Presence in Social VR Experience](http://www.interactivearchitecture.org/sense-of-presence-in-social-vr-experience.html) <br />
 [📄 XR Collaboration Resource Guide](https://xrcollaboration.com/#xr-resource-guide) <br />
-[📄 Start designing and prototyping for mixed reality](https://learn.microsoft.com/en-gb/windows/mixed-reality/design/design?WT.mc_id=aiml-0000-ayyonet) (Microsoft) <br />
+[📄 Start designing and prototyping for mixed reality (Microsoft)](https://learn.microsoft.com/en-gb/windows/mixed-reality/design/design?WT.mc_id=aiml-0000-ayyonet) <br />
 [📄 Oculus - Designing Accessible VR Experiences A set of guidelines for designing accessible VR experiences.](https://developer.oculus.com/resources/design-accessible-vr/) <br />
 [📄 Comparing Unity vs Unreal for VR, MR or AR Development Projects](https://xrbootcamp.com/unity-vs-unreal-engine-for-xr-development/) <br />
 [📄 Get started with VR: user experience design](https://www.vrinflux.com/the-basics-of-virtual-reality-ux/) <br />
-[📄 VR Fonts](https://www.reddit.com/r/oculus/comments/45w3am/vr_fonts/) (Reddit) <br />
+[📄 VR Fonts (Reddit)](https://www.reddit.com/r/oculus/comments/45w3am/vr_fonts/) <br />
 [📄 Designing User Experience for Virtual Reality (VR) applications](https://uxplanet.org/designing-user-experience-for-virtual-reality-vr-applications-fc8e4faadd96) <br />
-[📄 The User Experience of Virtual Reality](https://www.uxofvr.com/) (uxofvr.com) <br />
+[📄 The User Experience of Virtual Reality (uxofvr.com)](https://www.uxofvr.com/) <br />
 [📄 Design Practices in Virtual Reality](https://marvelapp.com/blog/design-practices-virtual-reality/) <br />
 [📄 Simulating Weight in VR](https://medium.com/@Breel.co/simulating-weight-in-vr-d161e87990b) <br />
 [📺 Interaction Design in VR: Valve’s Lessons](https://www.youtube.com/watch?app=desktop&v=_vQo0ApkAtI) <br /> 
