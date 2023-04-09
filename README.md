@@ -414,3 +414,4 @@ This project is actively maintained, please raise an issue if you feel the need 
 <br />
 **Like what has been done? please give the repository a star ⭐** <br />
 ## My Other Projects
+[➡️ Notes on VR Performance](https://github.com/authorTom/notes-on-VR-performance)
