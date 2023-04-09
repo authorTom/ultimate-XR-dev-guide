@@ -359,6 +359,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 ### Peformance Tools & Plugins
 |__Link__|__Description__|
 |:----|:----|
+|[🆓⚒️ Deep Learning Super Sampling (DLSS) NVIDIA](https://developer.nvidia.com/rtx/dlss?ncid=so-link-944412#cid=dev04_so-link_en-us)| A neural graphics technology that multiplies performance using AI to create entirely new frames and display higher resolution through image reconstruction—all while delivering best-in-class image quality and responsiveness.|
 |[🆓⚒️ OpenVR Benchmark](https://store.steampowered.com/app/955610/OpenVR_Benchmark/)| The first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required.|
 |[🆓⚒️ VR Performance Toolkit](https://github.com/fholger/vrperfkit)| Performance-oriented collection of mods for VR games.|
 |[🆓⚒️ OpenXR Explorer](https://github.com/maluoi/openxr-explorer)| An open-source tool that allows developers to explore and test OpenXR runtimes and applications.|
