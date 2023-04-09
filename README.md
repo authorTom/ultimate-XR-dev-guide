@@ -24,6 +24,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 ## Headsets (Head Mounted Displays)
 [📄 Choosing a VR headset](https://www.reddit.com/r/virtualreality/wiki/faq/choosing2/) (wiki from r/virtualreality) <br />
 [📄 VR-Compare](https://vr-compare.com/) is a website that allows users to compare virtual reality (VR) products and experiences. <br />
+[📄 HMD Geometry Database](https://risa2000.github.io/hmdgdb/) lists the calculated values of rendered FOVs and other view geometry of some commercially available headsets <br />
 ## XR Guides, Tutorials and Articles
 ### General
 [📄 Practical VR: A Design Cheat Sheet](https://virtualrealitypop.com/practical-vr-ce80427e8e9d) <br />
@@ -113,8 +114,10 @@ I created this resource list for my personal use. I hope you find it useful too.
 [Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
 [Virtus Learning Hub](https://www.youtube.com/@VirtusEdu) <br />
 [Smart Poly](https://www.youtube.com/@SmartPoly) <br />
+[PrismaticaDev](https://www.youtube.com/@PrismaticaDev) <br />
 [Ivica Milarić](https://www.youtube.com/@IvicaMilaric) <br />
 [UnrealSensei](https://www.youtube.com/@UnrealSensei) <br />
+[Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) <br />
 [Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
 [Virtus Learning Hub](https://www.youtube.com/@VirtusEdu) <br />
 [Ivica Milarić](https://www.youtube.com/@IvicaMilaric) <br />
