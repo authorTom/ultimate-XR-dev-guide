@@ -44,6 +44,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📺 Daydream Labs: Lessons Learned from VR Prototyping – Google I/O 2016](https://youtu.be/lGUmTQgbiAY) <br />
 [📺 2014 Oculus Connect – Introduction to Audio in VR](https://youtu.be/X6wSEMh8nR8) <br />
 [📺 Lessons learned at the Vive Game Jam](https://youtu.be/tQQPuZPWCN4) <br />
+[📺 How NOT to Build a VR Arcade Game](https://www.youtube.com/watch?v=uj8841GQuyc) <br />
 [📺 VR Interface Design Pre-Visualisation Methods](https://vimeo.com/141330081) <br />
 [📺 VR Interface Design Manifesto](https://vimeo.com/116101132) <br />
 [📺 Locomotion in Virtual Reality](https://www.youtube.com/watch?v=J8o71UycDa0) <br />
@@ -110,6 +111,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [Dilmer Valecillos](https://www.youtube.com/@dilmerv) <br />
 [WINBUSH](https://www.youtube.com/@JonathanWinbush) <br />
 ### Game Development
+[Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) <br />
 [UnrealSensei](https://www.youtube.com/@UnrealSensei) <br />
 [Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
 [Virtus Learning Hub](https://www.youtube.com/@VirtusEdu) <br />
@@ -316,6 +318,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Unreal Engine 5: XR Performance and Profiling](https://docs.unrealengine.com/5.0/en-US/xr-performance-and-profiling-in-unreal-engine/) <br />
 [📄 Unreal Engine 5: VR profiling Tools](https://docs.unrealengine.com/5.0/en-US/vr-profiling-tools-in-unreal-engine/) <br />
 [📄 Advanced Rendering (Oculus Quest)](https://developer.oculus.com/documentation/unreal/unreal-advanced-rendering/) <br />
+[📄 Guidelines for Optimizing Rendering for Real-Time](https://docs.unrealengine.com/5.0/en-US/guidelines-for-optimizing-rendering-for-real-time-in-unreal-engine/) <br />
 [📄 Unreal Art Optimization](https://unrealartoptimization.github.io/book/) <br />
 [📺 Unreal Engine Game Optimization on a Budget, by Tom Looman](https://youtu.be/G51QWcitCII) <br />
 [📺 Maximizing Your Game's Performance in Unreal Engine | Unreal Fest 2022](https://youtu.be/GuIav71867E) <br />
