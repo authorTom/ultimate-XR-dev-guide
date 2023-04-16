@@ -39,6 +39,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 The User Experience of Virtual Reality (uxofvr.com)](https://www.uxofvr.com/) <br />
 [📄 Design Practices in Virtual Reality](https://marvelapp.com/blog/design-practices-virtual-reality/) <br />
 [📄 Simulating Weight in VR](https://medium.com/@Breel.co/simulating-weight-in-vr-d161e87990b) <br />
+[📄 Understanding Binocular Overlap and Why It’s Important for VR Headsets](https://www.roadtovr.com/understanding-binocular-overlap-and-why-its-important-for-vr-headsets/) <br />
 [📺 Interaction Design in VR: Valve’s Lessons](https://www.youtube.com/watch?app=desktop&v=_vQo0ApkAtI) <br /> 
 [📺 Google I/O 2015 – Designing for virtual reality](https://youtu.be/Qwh1LBzz3AU) <br />
 [📺 Daydream Labs: Lessons Learned from VR Prototyping – Google I/O 2016](https://youtu.be/lGUmTQgbiAY) <br />
@@ -212,8 +213,9 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [📄 A Guide to Photogrammetry Photography (2020)](https://journalists.org/resources/a-guide-to-photogrammetry-photography/) <br />
 ### NeRF: Neural Radiance Fields
 [📄 NeRF: Neural Radiance Fields (matthewtancik.com)](https://www.matthewtancik.com/nerf) <br />
-[🆓⚒️ GitHub – bmild/nerf: Code release for NeRF (Neural Radiance Fields)](https://github.com/bmild/nerf) <br />
-[🆓⚒️ Luma AI](https://lumalabs.ai/) <br />
+[🆓 ⚒️ NVIDIA labs: Instant Neural Graphics Primitives](https://github.com/NVlabs/instant-ngp) <br />
+[🆓 ⚒️ GitHub – bmild/nerf: Code release for NeRF (Neural Radiance Fields)](https://github.com/bmild/nerf) <br />
+[🆓 ⚒️ Luma AI](https://lumalabs.ai/) <br />
 [📺 Why THIS is the Future of Imagery: The Corridor Crew (YouTube)](https://youtu.be/YX5AoaWrowY) <br />
 ### Textures
 [⚒️ Adobe Substance 3D Painter](https://www.adobe.com/uk/products/substance3d-painter.html) <br />
@@ -254,6 +256,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [📄 NVIDIA GPU Gems 3](https://developer.nvidia.com/gpugems/gpugems3/) <br />
 [📕 The Book of Shaders](https://thebookofshaders.com/) <br />
 [📕 Computer Graphics from Scratch](https://gabrielgambetta.com/computer-graphics-from-scratch/) <br />
+[📄📺 NedMakesGames: Shader Tutorials](https://nedmakesgames.medium.com/) <br />
 ## Motion Capture, Tracking & Rigging Tools
 [⚒️ Rokoko](https://www.rokoko.com/) <br />
 [Xsens](https://www.movella.com/) <br />
@@ -320,6 +323,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📄 Advanced Rendering (Oculus Quest)](https://developer.oculus.com/documentation/unreal/unreal-advanced-rendering/) <br />
 [📄 Guidelines for Optimizing Rendering for Real-Time](https://docs.unrealengine.com/5.0/en-US/guidelines-for-optimizing-rendering-for-real-time-in-unreal-engine/) <br />
 [📄 Unreal Art Optimization](https://unrealartoptimization.github.io/book/) <br />
+[📄 Understanding Textures And Optimizing Materials For Mobile VR in UE 5.1 - Part 1](https://www.gdxr.co.uk/blog/understanding-textures-and-optimizing-materials-for-mobile-vr-in-ue-51-part-1) <br />
 [📺 Unreal Engine Game Optimization on a Budget, by Tom Looman](https://youtu.be/G51QWcitCII) <br />
 [📺 Maximizing Your Game's Performance in Unreal Engine | Unreal Fest 2022](https://youtu.be/GuIav71867E) <br />
 ### Meta Quest Performance
