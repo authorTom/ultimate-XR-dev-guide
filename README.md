@@ -16,6 +16,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 - [XR Development Tools & Frameworks](#xr-development-tools--frameworks)
 - [Performance and Benchmarking](#performance-and-benchmarking)
 - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
+- [VR Streaming](#vr-streaming) 
 - [Interesting Projects](#interesting-projects)
 - [How to Contribute](#how-to-contribute)
 - [Issues](#issues)
@@ -391,6 +392,11 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[⚒️ ShapesXR](https://www.shapesxr.com/)| A VR creation and collaboration platform for remote teams.|
 |[⚒️ Bezel](https://www.bezel.it/)| A VR creation and collaboration platform for remote teams.|
 |[🆓⚒️ Nvidia Omniverse Create XR](https://www.nvidia.com/en-gb/omniverse/)| A platform for creating and collaborating on immersive, real-time 3D experiences. It allows users to design, visualize, and simulate 3D environments and objects, and to collaborate with others in real-time.
+## VR Streaming
+[⚒️ NVIDIA CloudXR](https://developer.nvidia.com/cloudxr-sdk) <br />
+[🆓⚒️ Air Link](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/) <br />
+[⚒️ Virtual Desktop](https://www.vrdesktop.net/) <br />
+[⚒️ VIVE Business Streaming](https://business.vive.com/uk/solutions/streaming/) <br />
 ## Interesting Projects
 |__Link__|__Description__|
 |:----|:----|
