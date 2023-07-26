@@ -13,7 +13,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 - [Shaders & 3D Graphics](#shaders--3d-graphics)
 - [Motion Capture, Tracking & Rigging Tools](#motion-capture-tracking--rigging-tools)
 - [Hand Tracking](#hand-tracking)
-- [Spatial Computing](#spatial-computing)
+- [Spatial Computing](#spatial-computing-apple-visionos)
 - [XR Development Tools & Frameworks](#xr-development-tools--frameworks)
 - [Performance and Benchmarking](#performance-and-benchmarking)
 - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
@@ -289,7 +289,14 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 ### VRPlayground (YouTube)
 [📺 Oculus Quest Hand Tracking Setup – Unreal Engine VR Tutorial](https://youtu.be/bqNbEtbaN0M) <br />
 [📺 Unreal Engine Hand Animations – Unreal Engine 5 VR Tutorial](https://youtu.be/8wC6Vg3fHcQ) <br />
-## Spatial Computing
+## Spatial Computing (Apple visionOS)
+[🆓⚒️ Apple VisionOS SDK](https://developer.apple.com/visionos) <br />
+[🆓⚒️ Apple - Creation Tools for Spatial Apps]() <br />
+[🆓⚒️ Unity Vision Pro SDK (beta)](https://create.unity.com/spatial) <br />
+[📺 Apple - Spatial Computing Videos (PolySpatial)](https://developer.apple.com/videos/spatial-computing/) <br />
+[📄 Apple - Designing for visionOS](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos/) <br />
+[📄 Apple - Design Resources](https://developer.apple.com/design/resources/#visionos-apps) <br />
+[🆓⚒️ Unity Vision Pro SDK (beta)](https://create.unity.com/spatial) <br />
 ## XR Development Tools & Frameworks
 |__Link__|__Description__|
 |:----|:----|
