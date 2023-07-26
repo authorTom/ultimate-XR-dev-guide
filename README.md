@@ -13,6 +13,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 - [Shaders & 3D Graphics](#shaders--3d-graphics)
 - [Motion Capture, Tracking & Rigging Tools](#motion-capture-tracking--rigging-tools)
 - [Hand Tracking](#hand-tracking)
+- [Spatial Computing](#spatial-computing)
 - [XR Development Tools & Frameworks](#xr-development-tools--frameworks)
 - [Performance and Benchmarking](#performance-and-benchmarking)
 - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
@@ -26,6 +27,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Choosing a VR headset](https://www.reddit.com/r/virtualreality/wiki/faq/choosing2/) (wiki from r/virtualreality) <br />
 [📄 VR-Compare](https://vr-compare.com/) is a website that allows users to compare virtual reality (VR) products and experiences. <br />
 [📄 HMD Geometry Database](https://risa2000.github.io/hmdgdb/) lists the calculated values of rendered FOVs and other view geometry of some commercially available headsets <br />
+
 ## XR Guides, Tutorials and Articles
 ### General
 [📄 Practical VR: A Design Cheat Sheet](https://virtualrealitypop.com/practical-vr-ce80427e8e9d) <br />
@@ -287,6 +289,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 ### VRPlayground (YouTube)
 [📺 Oculus Quest Hand Tracking Setup – Unreal Engine VR Tutorial](https://youtu.be/bqNbEtbaN0M) <br />
 [📺 Unreal Engine Hand Animations – Unreal Engine 5 VR Tutorial](https://youtu.be/8wC6Vg3fHcQ) <br />
+## Spatial Computing
 ## XR Development Tools & Frameworks
 |__Link__|__Description__|
 |:----|:----|
