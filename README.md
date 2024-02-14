@@ -100,6 +100,8 @@ I created this resource list for my personal use. I hope you find it useful too.
 [XR Creators](https://discord.gg/aJxfbNTAHN) <br />
 [Flatscreen to VR Modding](https://discord.gg/hEGRD8xX) <br />
 [LucidVR](https://discord.gg/lucidvr) <br />
+[Apple Vision Pro](https://discord.gg/GMfAVA9S) <br />
+[Spatial Computing Hub](https://discord.gg/zPj5svpVTH) <br />
 ### Subreddits
 [r/oculus](https://www.reddit.com/r/oculus) <br />
 [r/OculusQuest](https://www.reddit.com/r/OculusQuest) <br />
