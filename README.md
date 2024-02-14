@@ -63,10 +63,15 @@ I created this resource list for my personal use. I hope you find it useful too.
 ### Unity
 [📄 Unity Manual: XR](https://docs.unity3d.com/Manual/XR.html) <br />
 [📄 Intro to VR Development with Oculus Rift (Unity)](https://www.altrealityinitiative.com/post/intro-to-vr-development-with-oculus-rift) <br />
+### Unity and visionOS
 [📄 Unity’s visionOS Community Space](https://discussions.unity.com/t/welcome-to-unitys-visionos-community-space/270282) <br />
 [📄 PolySpatial visionOS Documentation](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@1.0/manual/index.html) <br />
 [📄 Unity visionOS manual](https://docs.unity3d.com/Manual/visionOS.html) <br />
 [📺 Unity's Support for visionOS](https://www.youtube.com/watch?v=8bb111jpz7Q) <br />
+[📺 Get Started With Unity visionOS PolySpatial Tools! (Apple Vision Pro Development)](https://www.youtube.com/watch?v=EtPaYKvzs6M) <br />
+[📺 Everything you need to know about Unity PolySpatial + visionOS | Unite 2023](https://www.youtube.com/watch?v=JYjdRbuE_Es) <br />
+[📺 Develop for Apple Vision Pro with Unity’s PolySpatial | Play to Device, XR Simulator & visionOS](https://www.youtube.com/watch?v=LYRJIewPiLU) <br />
+
 ### Unreal Engine
 [📄 Developing for XR experiences in Unreal Engine](https://docs.unrealengine.com/5.1/en-US/developing-for-xr-experiences-in-unreal-engine/) <br />
 [📄 Mike Royal – Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) <br />
