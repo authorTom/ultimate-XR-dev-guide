@@ -63,6 +63,9 @@ I created this resource list for my personal use. I hope you find it useful too.
 ### Unity
 [📄 Unity Manual: XR](https://docs.unity3d.com/Manual/XR.html) <br />
 [📄 Intro to VR Development with Oculus Rift (Unity)](https://www.altrealityinitiative.com/post/intro-to-vr-development-with-oculus-rift) <br />
+[📄 Unity’s visionOS Community Space](https://discussions.unity.com/t/welcome-to-unitys-visionos-community-space/270282) <br />
+[📄 PolySpatial visionOS Documentation](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@1.0/manual/index.html) <br />
+[📺 Unity's Support for visionOS](https://www.youtube.com/watch?v=8bb111jpz7Q) <br />
 ### Unreal Engine
 [📄 Developing for XR experiences in Unreal Engine](https://docs.unrealengine.com/5.1/en-US/developing-for-xr-experiences-in-unreal-engine/) <br />
 [📄 Mike Royal – Unreal Engine Guide](https://github.com/mikeroyal/Unreal-Engine-Guide) <br />
