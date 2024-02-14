@@ -117,6 +117,11 @@ I created this resource list for my personal use. I hope you find it useful too.
 [r/blender](https://www.reddit.com/r/blender) <br />
 [r/mixedvr](https://www.reddit.com/r/mixedvr) <br />
 [r/WindowsMR](https://www.reddit.com/r/WindowsMR) <br />
+[r/visionOS](https://www.reddit.com/r/visionos) <br />
+[r/AppleVisionPro](https://www.reddit.com/r/applevisionpro) <br />
+[r/VisionPro](https://www.reddit.com/r/visionpro) <br />
+[r/AppleVision](https://www.reddit.com/r/applevision) <br />
+[r/visionosdev](https://www.reddit.com/r/visionosdev) <br />
 ### Forums & Development Hubs
 [Developer Forum (oculusvr.com)](https://forums.oculusvr.com/t5/Developer/ct-p/developer) <br />
 [AR/VR (XR) Discussion – Unity Forum](https://forum.unity.com/forums/ar-vr-xr-discussion.80/) <br />
