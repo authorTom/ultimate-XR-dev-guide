@@ -1,6 +1,8 @@
 # The Ultimate XR Developers Resource Guide 
 
 I created this resource list for my personal use. I hope you find it useful too. Much of the content overlaps with general game development, and there is an emphasis on Unreal Engine and Meta Quest headsets. <br />
+<br>
+**24th February 2024: Added links for visionOS - It has been some time since my last update, and the Apple Vision Pro has now been officially released.<br />**
 
 # Table of Contents
 
