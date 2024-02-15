@@ -188,6 +188,15 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 VR Template in Unreal Engine (Epic Games)](https://docs.unrealengine.com/5.0/en-US/vr-template-in-unreal-engine/) <br />
 ### Unreal Engine Plugins
 [🆓⚒️ VR Expansion Plugin](https://vreue4.com/) <br />
+<br />
+### OpenXR Unreal Engine Plugins
+[🆓⚒️ Meta Plugin](https://www.unrealengine.com/marketplace/en-US/product/8313d8d7e7cf4e03a33e79eb757bccba?lang=en-US) <br />
+[🆓⚒️ Varjo Plugin](https://www.unrealengine.com/marketplace/en-US/product/varjo-openxr) <br />
+[🆓⚒️ Microsoft Plugin](https://www.unrealengine.com/marketplace/en-US/product/ef8930ca860148c498b46887da196239) <br />
+[🆓⚒️ PICO Plugin](https://www.unrealengine.com/marketplace/en-US/product/pico-for-openxr) <br />
+[🆓⚒️ Vive PC Plugin](https://developer.vive.com/resources/openxr/openxr-pcvr/download/latest/) <br />
+[🆓⚒️ Vive Mobile Plugin](https://developer.vive.com/resources/openxr/openxr-mobile/download/latest/) <br />
+[🆓⚒️ MagicLeap Plugin](https://developer-docs.magicleap.cloud/docs/guides/unreal/unreal-overview/index.html) <br />
 ### Getting Started with Unity
 [📄 Next Steps with Unity (META)](https://developer.oculus.com/documentation/unity/) <br />
 ## Assets
