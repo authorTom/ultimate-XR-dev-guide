@@ -91,6 +91,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Epic Games Learning Library for Unreal Engine & MetaHuman](https://dev.epicgames.com/community/learning?application=unreal_engine) <br />
 [📄 Your First Hour in Unreal Engine 5](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5/RPwK/your-first-hour-in-unreal-engine-5-overview) <br />
 [📄 XR Best Practices in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/xr-best-practices-in-unreal-engine/) <br />
+[📄 Developing for OpenXR with UE5 - Unreal Fest 2023 Presentation](https://epicgames.ent.box.com/s/rwvmg3qpfpzzkg0rmkjxktzom6oxggvf) <br />
 [📺 Virtual Reality and OpenXR in UE5 | Unreal Fest 2022](https://www.youtube.com/watch?v=JD95BklloHk) <br />
 [📺 What You Didn’t Know About VR Development in Unreal Engine | Inside Unreal](https://www.youtube.com/live/vT1T2unF8EI?feature=share) <br />
 ## Social & Community
@@ -170,9 +171,10 @@ I created this resource list for my personal use. I hope you find it useful too.
 [Eric V. Tuber](https://www.youtube.com/@EricVTuber) <br />
 [iBrews](https://www.youtube.com/@ibrews) <br />
 ## Game Engines
-[⚒️ Unreal Engine](https://www.unrealengine.com/) <br />
-[⚒️ Unity](https://unity.com/) <br />
+[⚒️ Unreal Engine (free tier)](https://www.unrealengine.com/) <br />
+[⚒️ Unity (free tier)](https://unity.com/) <br />
 [⚒️ Cry Engine](https://www.cryengine.com/) <br />
+[⚒️ PlayCanvas (free tier)](https://playcanvas.com/) <br />
 [🆓⚒️ Godot Engine](https://godotengine.org/) <br />
 [🆓⚒️ AppGameKit VR](https://www.appgamekit.com/dlc/vr) <br />
 [🆓⚒️ Open 3D Engine](https://www.o3de.org/) <br />
@@ -400,6 +402,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[🆓⚒️ OpenVR Benchmark](https://store.steampowered.com/app/955610/OpenVR_Benchmark/)| The first benchmark tool for reproducibly testing your real VR performance, rendering inside of your VR headset. See if your hardware performs correctly! VR headset required.|
 |[🆓⚒️ VR Performance Toolkit](https://github.com/fholger/vrperfkit)| Performance-oriented collection of mods for VR games.|
 |[🆓⚒️ OpenXR Explorer](https://github.com/maluoi/openxr-explorer)| An open-source tool that allows developers to explore and test OpenXR runtimes and applications.|
+|[🆓⚒️ OpenXR Runtime Switcher](https://github.com/WaGi-Coding/OpenXR-Runtime-Switcher)| Allows you to quickly switch your System Default OpenXR Runtime between existing ones (currently SteamVR, Oculus/Meta, ViveVR, Windows Mixed Reality & Varjo) if installed & custom ones, which you can add manually to the program.|
 |[🆓⚒️ Quest Games Optimizer](https://anagan79.itch.io/quest-games-optimizer)| A community-based tool to improve the Quest graphics and gaming experience.|
 |[🆓⚒️ ReShade](https://reshade.me/)| A generic post-processing injector for games and video software.|
 |[⚒️ Simplygon](https://www.simplygon.com/)| Perform automatic 3D optimization, based on proprietary methods for creating levels of detail through Polygon mesh reduction and other optimization techniques.|
