@@ -196,8 +196,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [TurboSquid](https://www.turbosquid.com/) <br />
 [CGTrader](https://www.cgtrader.com/) <br />
 [🆓 Smithsonian 3D](https://3d.si.edu/) <br />
-[🆓 3dmodelscc0](https://www.3dmodelscc0.com/) <br />
-[🆓 Quixel Megascans](https://quixel.com/megascans/) <br />
+[🆓 Quixel Megascans](https://quixel.com/megascans/home/) <br />
 [🆓 Quixel Bridge](https://quixel.com/bridge) <br />
 [🆓 Poly Haven](https://polyhaven.com/) <br />
 [Pixel Lab](https://www.thepixellab.net/freebies) <br />
