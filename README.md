@@ -447,6 +447,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[🆓⚒️ OpenHMD](http://www.openhmd.net/)| A Free and Open-Source API and drivers for immersive technology, such as head mounted displays with built in head tracking.|
 |[⚒️ Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/)| Helps to reduce motion sickness.|
 |[🆓⚒️ Interhaptics by Razor](https://www.interhaptics.com/)| Design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool.|
+|[⚒️ vorpX](https://www.vorpx.com/)| vorpX let’s you experience DirectX9-12 and some older OpenGL games on your VR headset.|
 ## How to Contribute
 * Clone repository and create a new branch:
 ```
