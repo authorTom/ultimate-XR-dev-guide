@@ -76,6 +76,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📺 Apple - Spatial Computing Videos (PolySpatial)](https://developer.apple.com/videos/spatial-computing/) <br />
 [📄 Apple - Designing for visionOS](https://developer.apple.com/design/human-interface-guidelines/designing-for-visionos/) <br />
 [📄 Apple - Design Resources](https://developer.apple.com/design/resources/#visionos-apps) <br />
+[📄 If you are a developer of Apple Vision Pro, then you must pay attention to these points](https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points) <br />
 ### Unity and visionOS
 [📄 Unity’s visionOS Community Space](https://discussions.unity.com/t/welcome-to-unitys-visionos-community-space/270282) <br />
 [📄 PolySpatial visionOS Documentation](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@1.0/manual/index.html) <br />
