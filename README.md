@@ -5,7 +5,7 @@
 ![Maintenance](https://img.shields.io/maintenance/yes/2023?style=for-the-badge)
 ![Last-Commit](https://img.shields.io/github/last-commit/authorTom/ultimate-XR-dev-guide?style=for-the-badge) <br>
 <br>
-I created this resource list for my personal use. I hope you find it useful too. Much of the content overlaps with general game development, and there is an emphasis on Unreal Engine and Meta Quest headsets. <br />
+I created this resource list for my personal use. I hope you find it useful too. Much of the content overlaps with general game development. Check out the [How to Contribute](#how-to-contribute) section if you have any contribution suggestions. <br />
 <br>
 **24th February 2024: Added links for visionOS - It has been some time since my last update, and the Apple Vision Pro has now been officially released.<br />**
 
