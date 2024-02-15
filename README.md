@@ -96,7 +96,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 ## Social & Community
 ### Discord Servers
 [Virtual Reality](https://discord.gg/virtualreality) <br />
-[Unreal Slackers](https://discord.gg/unreal-slackers) <br />
+[Unreal Source](https://discord.com/invite/unrealsource) <br />
 [XR Creators](https://discord.gg/aJxfbNTAHN) <br />
 [Flatscreen to VR Modding](https://discord.gg/hEGRD8xX) <br />
 [LucidVR](https://discord.gg/lucidvr) <br />
