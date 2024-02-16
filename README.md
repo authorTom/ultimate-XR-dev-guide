@@ -201,6 +201,8 @@ I created this resource list for my personal use. I hope you find it useful too.
 [🆓⚒️ MagicLeap Plugin](https://developer-docs.magicleap.cloud/docs/guides/unreal/unreal-overview/index.html) <br />
 ### Getting Started with Unity
 [📄 Next Steps with Unity (META)](https://developer.oculus.com/documentation/unity/) <br />
+### Unity Plugins
+[🆓⚒️ Meta XR Haptics SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-haptics-sdk-272446) <br />
 ## Assets
 ### Premade Models
 [3D Scan Store](https://www.3dscanstore.com/) <br />
