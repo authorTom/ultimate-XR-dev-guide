@@ -79,6 +79,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 If you are a developer of Apple Vision Pro, then you must pay attention to these points](https://xreality.zone/en/posts/if-you-are-a-developer-of-apple-vision-pro-then-you-must-pay-attention-to-these-points) <br />
 ### Unity and visionOS
 [📄 Unity’s visionOS Community Space](https://discussions.unity.com/t/welcome-to-unitys-visionos-community-space/270282) <br />
+[📄 Unity visionOS Discussion Forum](https://discussions.unity.com/c/visionos/16) <br />
 [📄 PolySpatial visionOS Documentation](https://docs.unity3d.com/Packages/com.unity.polyspatial.visionos@1.0/manual/index.html) <br />
 [📄 Unity visionOS manual](https://docs.unity3d.com/Manual/visionOS.html) <br />
 [📺 Unity's Support for visionOS](https://www.youtube.com/watch?v=8bb111jpz7Q) <br />
