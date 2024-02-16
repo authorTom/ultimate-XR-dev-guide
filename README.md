@@ -459,6 +459,7 @@ A profiler tool helps developers optimize performance by providing detailed info
 |[⚒️ Natural Locomotion](https://store.steampowered.com/app/798810/Natural_Locomotion/)| Helps to reduce motion sickness.|
 |[🆓⚒️ Interhaptics by Razor](https://www.interhaptics.com/)| Design your haptics effects based on your audio. Extract the haptics features and optimize them with the editing tool.|
 |[⚒️ vorpX](https://www.vorpx.com/)| vorpX let’s you experience DirectX9-12 and some older OpenGL games on your VR headset.|
+|[🆓⚒️ Gracia.ai](https://www.gracia.ai/)| Gracia is a world's first platform with free-viewpoint photorealistic VR experiences.|
 ## How to Contribute
 * Clone repository and create a new branch:
 ```
