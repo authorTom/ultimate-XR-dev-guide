@@ -134,6 +134,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 ### General
 [VR Playground](https://www.youtube.com/@VRPlayground) <br />
 [Quinn Kuslich](https://www.youtube.com/@QuinnKuslich) <br />
+[PICOXR_Developer](https://www.youtube.com/@PICOXR_Developer) <br />
 [Just2Devs](https://www.youtube.com/@Just2Devs) <br />
 [XR Bootcamp](https://www.youtube.com/@XRBootcamp) <br />
 [Circuit Stream](https://www.youtube.com/channel/UCPlpymrUpvb7KbVU3OUDzXw) <br />
