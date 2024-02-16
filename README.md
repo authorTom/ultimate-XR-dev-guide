@@ -48,7 +48,8 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Design Practices in Virtual Reality](https://marvelapp.com/blog/design-practices-virtual-reality/) <br />
 [📄 Simulating Weight in VR](https://medium.com/@Breel.co/simulating-weight-in-vr-d161e87990b) <br />
 [📄 Understanding Binocular Overlap and Why It’s Important for VR Headsets](https://www.roadtovr.com/understanding-binocular-overlap-and-why-its-important-for-vr-headsets/) <br />
-[📺 Interaction Design in VR: Valve’s Lessons](https://www.youtube.com/watch?app=desktop&v=_vQo0ApkAtI) <br /> 
+[🆓⚒️ Oculus Samples](https://github.com/oculus-samples) <br />
+[📺 Interaction Design in VR: Valve’s Lessons](https://www.youtube.com/watch?app=desktop&v=_vQo0ApkAtI) <br />
 [📺 Google I/O 2015 – Designing for virtual reality](https://youtu.be/Qwh1LBzz3AU) <br />
 [📺 Daydream Labs: Lessons Learned from VR Prototyping – Google I/O 2016](https://youtu.be/lGUmTQgbiAY) <br />
 [📺 2014 Oculus Connect – Introduction to Audio in VR](https://youtu.be/X6wSEMh8nR8) <br />
