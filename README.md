@@ -325,6 +325,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [🆓⚒️ Unreal Hand Gameplay Showcase (GitHub)](https://github.com/oculus-samples/Unreal-HandGameplay) <br />
 [📄 Designing for Hands (Meta/Oculus)](https://developer.latest.oculus.com/resources/hands-design-intro/) <br />
 [📄 Introducing ‘First Hand,’ Our Official Hand Tracking Demo Built With Presence Platform’s Interaction SDK](https://developer.oculus.com/blog/introducing-first-hand/) <br />
+[📄 Enable Hand Tracking on the Quest](https://gitlab.com/just2devs/plugin-examples/hand-tracking-example/-/wikis/Enabling-Hand-Tracking) <br />
 [🆓 ⚒️ Oculus VR Hands Models](https://www.patreon.com/posts/free-oculus-vr-46544401) <br />
 [Ultraleap](https://www.ultraleap.com/) <br />
 ### Quinn Kuslich (YouTube)
