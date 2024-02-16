@@ -188,6 +188,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Configure the Oculus Plugin for Unreal Engine (META)](https://developer.oculus.com/documentation/unreal/unreal-plugin-settings/) <br />
 [📄 Developing for Oculus in Unreal Engine (Epic Games)](https://docs.unrealengine.com/5.0/en-US/developing-for-oculus-in-unreal-engine/) <br />
 [📄 VR Template in Unreal Engine (Epic Games)](https://docs.unrealengine.com/5.0/en-US/vr-template-in-unreal-engine/) <br />
+[📺 Developing for OpenXR with UE5 | Unreal Fest 2023](https://dev.epicgames.com/community/learning/talks-and-demos/jGVJ/unreal-engine-developing-for-openxr-with-ue5-unreal-fest-2023) <br />
 ### Unreal Engine Plugins
 [🆓⚒️ VR Expansion Plugin](https://vreue4.com/) <br />
 ### OpenXR Unreal Engine Plugins
