@@ -251,6 +251,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [📺 William Faucher: The Key to Cleaner 3D Scans: Cross-Polarization](https://www.youtube.com/watch?v=GJ2gtQ0WxTU&t=779s) <br />
 [📺 William Faucher: FREE Ways to Improve your 3D Scans!](https://youtu.be/p3VG4Z6LhB0) <br />
 <br />
+[📄 Mike Royal - Photogrammetry Guide](https://github.com/mikeroyal/Photogrammetry-Guide) <br />
 [📄 Getting started with Photogrammetry — with a Smartphone camera (2019)](https://medium.com/realities-io/getting-started-with-photogrammetry-d0a6ee40cb72) <br />
 [📄 A Guide to Photogrammetry Photography (2020)](https://journalists.org/resources/a-guide-to-photogrammetry-photography/) <br />
 ### NeRF: Neural Radiance Fields
@@ -358,7 +359,7 @@ Mostly hand tracking information for Unreal Engine with Quest headsets <br />
 [📺 Achieving PCVR Quality on a Mobile Headset with OwlChemy Labs](https://youtu.be/k7XyEYot_Ks) <br />
 [📺 SUPERHOT VR on Quest: From 100W to 4W in 12 Months](https://youtu.be/hr35o5R7EMA) <br />
 [📺 Oculus Connect 5 | Reinforcing Mobile Performance with RenderDoc](https://youtu.be/CQxkE_56xMU) <br />
-[]() <br />
+[📺 When Optimisations Work, But for the Wrong Reasons](https://www.youtube.com/watch?v=hf27qsQPRLQ) <br />
 ### Unreal Engine Performance
 [📄 Unreal Engine Performance Guide (GPUOpen)](https://gpuopen.com/unreal-engine-performance-guide/) <br />
 [📄 Unreal Engine 5: Testing and optimizing Your Content](https://docs.unrealengine.com/5.1/en-US/testing-and-optimizing-your-content/) <br />
