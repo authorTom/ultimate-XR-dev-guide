@@ -96,6 +96,8 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Your First Hour in Unreal Engine 5](https://dev.epicgames.com/community/learning/courses/ZpX/your-first-hour-in-unreal-engine-5/RPwK/your-first-hour-in-unreal-engine-5-overview) <br />
 [📄 XR Best Practices in Unreal Engine](https://docs.unrealengine.com/5.0/en-US/xr-best-practices-in-unreal-engine/) <br />
 [📄 Developing for OpenXR with UE5 - Unreal Fest 2023 Presentation](https://epicgames.ent.box.com/s/rwvmg3qpfpzzkg0rmkjxktzom6oxggvf) <br />
+[📄 Ari's Unreal Engine Notes](https://flassari.notion.site/Ari-s-Unreal-Engine-Notes-1a75e43f4014464984d4fae0617e5cef) <br />
+[⚒️ GDXR Ultimate VR Template](https://www.unrealengine.com/marketplace/en-US/product/87aaded1256e4df786ceeffd65e6f1ad) <br />
 [📺 Virtual Reality and OpenXR in UE5 | Unreal Fest 2022](https://www.youtube.com/watch?v=JD95BklloHk) <br />
 [📺 What You Didn’t Know About VR Development in Unreal Engine | Inside Unreal](https://www.youtube.com/live/vT1T2unF8EI?feature=share) <br />
 ## Social & Community
