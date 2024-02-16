@@ -269,6 +269,7 @@ Photogrammetry is a technique that uses photographs to construct 3D models of ob
 [🆓 Poliigon: Free Textures](https://www.poliigon.com/search?credit=0) <br />
 [🆓 30 free PBR materials](https://lebediev.gumroad.com/l/ekRhc) <br />
 [🆓 Poly](https://withpoly.com/) <br />
+[🆓 Texture Ninja](https://texture.ninja/) <br />
 [Game Textures](https://gametextures.com/) <br />
 [Plain Textures](https://www.plaintextures.com/) <br />
 [Textures.com](https://www.textures.com/) <br />
