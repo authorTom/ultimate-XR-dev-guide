@@ -204,7 +204,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Next Steps with Unity (META)](https://developer.oculus.com/documentation/unity/) <br />
 ### Unity Plugins
 [🆓⚒️ Meta XR Haptics SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-haptics-sdk-272446) <br />
-[🆓⚒️ ArmSwinger VR Locomotion System - an artificial VR locomotion library developed on Unity 5.4. ArmSwinger allows you to use your arms to control your position in 3D space in a natural way with minimal disorientation.](https://github.com/ElectricNightOwl/ArmSwinger) <br />
+[🆓⚒️ ArmSwinger VR Locomotion System](https://github.com/ElectricNightOwl/ArmSwinger) is an artificial VR locomotion library developed on Unity 5.4. ArmSwinger allows you to use your arms to control your position in 3D space in a natural way with minimal disorientation. <br />
 ## Assets
 ### Premade Models
 [3D Scan Store](https://www.3dscanstore.com/) <br />
