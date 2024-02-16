@@ -191,6 +191,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📺 Developing for OpenXR with UE5 | Unreal Fest 2023](https://dev.epicgames.com/community/learning/talks-and-demos/jGVJ/unreal-engine-developing-for-openxr-with-ue5-unreal-fest-2023) <br />
 ### Unreal Engine Plugins
 [🆓⚒️ VR Expansion Plugin](https://vreue4.com/) <br />
+[⚒️ Head Mounted VR Plugin](https://www.unrealengine.com/marketplace/en-US/product/45dc6f690a9a4a6a9784d3978fbcb147) <br />
 ### OpenXR Unreal Engine Plugins
 [🆓⚒️ Meta Plugin](https://www.unrealengine.com/marketplace/en-US/product/8313d8d7e7cf4e03a33e79eb757bccba?lang=en-US) <br />
 [🆓⚒️ Varjo Plugin](https://www.unrealengine.com/marketplace/en-US/product/varjo-openxr) <br />
@@ -203,6 +204,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 [📄 Next Steps with Unity (META)](https://developer.oculus.com/documentation/unity/) <br />
 ### Unity Plugins
 [🆓⚒️ Meta XR Haptics SDK](https://assetstore.unity.com/packages/tools/integration/meta-xr-haptics-sdk-272446) <br />
+[🆓⚒️ ArmSwinger VR Locomotion System - an artificial VR locomotion library developed on Unity 5.4. ArmSwinger allows you to use your arms to control your position in 3D space in a natural way with minimal disorientation.](https://github.com/ElectricNightOwl/ArmSwinger) <br />
 ## Assets
 ### Premade Models
 [3D Scan Store](https://www.3dscanstore.com/) <br />
