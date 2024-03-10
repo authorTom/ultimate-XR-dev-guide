@@ -23,7 +23,8 @@ I created this resource list for my personal use. I hope you find it useful too.
 - [XR Development Tools & Frameworks](#xr-development-tools--frameworks)
 - [Performance and Benchmarking](#performance-and-benchmarking)
 - [Sketching, Prototyping & Design Tools](#sketching-prototyping--design-tools)
-- [VR Streaming](#vr-streaming) 
+- [VR Streaming](#vr-streaming)
+- [Hardware](#hardware) 
 - [Interesting Projects](#interesting-projects)
 - [How to Contribute](#how-to-contribute)
 - [Issues](#issues)
@@ -455,6 +456,17 @@ A profiler tool helps developers optimize performance by providing detailed info
 [🆓⚒️ Air Link](https://www.meta.com/en-gb/help/quest/articles/headsets-and-accessories/oculus-link/connect-with-air-link/) <br />
 [⚒️ Virtual Desktop](https://www.vrdesktop.net/) <br />
 [⚒️ VIVE Business Streaming](https://business.vive.com/uk/solutions/streaming/) <br />
+## Hardware
+### Headset Teardowns
+[📺 Meta Quest 2](https://youtu.be/3wdlL3v_38I?si=fDDC1wLvGUP98yea) <br />
+[📺 Meta Quest Pro](https://youtu.be/LDUJLnrCgow?si=E7v-W7xbHp5DZFJd) <br />
+[📺 Meta Quest 3](https://youtu.be/liVll-GVF3Q?si=914Xnhpv5fyka4vY) <br />
+[📺 Apple Vision Pro](https://youtu.be/JVJPAYwY8Us?si=-rwj5JMnXVfVW9DW) <br />
+[📺 Valve Index](https://youtu.be/oldDnXkp9xs?si=suseDGkSQ5jYT7hV) <br />
+[📺 HTC Vive XR Elite](https://youtu.be/W6TqYGaYxus?si=OKbI1qVY7QqEEzAE) <br />
+[📺 Playstation 2VR](https://youtu.be/oc1Bi-LMfmw?si=ZkgFWY7D4GsPO8RW) <br />
+
+
 ## Interesting Projects
 |__Link__|__Description__|
 |:----|:----|
