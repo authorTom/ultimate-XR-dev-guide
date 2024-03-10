@@ -156,6 +156,7 @@ I created this resource list for my personal use. I hope you find it useful too.
 ### Game Development
 [Game Maker's Toolkit](https://www.youtube.com/channel/UCqJ-Xo29CKyLTjn6z2XwYAw) <br />
 [UnrealSensei](https://www.youtube.com/@UnrealSensei) <br />
+[Bad Decisions Studio](https://www.youtube.com/@badxstudio) <br />
 [Awesome Tuts](https://www.youtube.com/@awesometuts) <br />
 [Virtus Learning Hub](https://www.youtube.com/@VirtusEdu) <br />
 [Smart Poly](https://www.youtube.com/@SmartPoly) <br />
